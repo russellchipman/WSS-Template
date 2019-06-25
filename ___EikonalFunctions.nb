@@ -1,0 +1,2117 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 11.1' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[    135464,       2109]
+NotebookOptionsPosition[    129124,       1988]
+NotebookOutlinePosition[    132392,       2053]
+CellTagsIndexPosition[    132305,       2048]
+WindowTitle->EikonalFunctions - PolarisScatterDisplay`
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+Cell[BoxData[GridBox[{
+   {Cell[BoxData[Cell[GraphicsData["Metafile", "\<\
+CF5dJ6E]HGAYHf4PEfU^I6mgLb15CDHPAVmbKF5d0@000AYT0@0006`000000000000003P1001G0000
+00000000003F5@006`H00215CDH00040I1X10100000100000000000000000000P0L003P4001H0@00
+`P0000000000000000000<0o1@3@m@80AP0002`0000P0000ADe6:`500@0L00004000008@`=/10000
+H000060000160000i3l00=Po0015CDH[<4020100000400000020?bY0000T000060000000P3l00000
+00000000P3l0000000000390004L00004000000000000000082L@`00/48Z@000900001P00000080o
+000000000000080o00000000000U@000400000@0000000007d0300`0000000008T0400`000000000
+7T0900`000000000940400`0000000008D0700`000000000:T0002@0000H0000IRcL>00000000000
+IRcL>0000000000024001H`n0020?P000Q30f`400000000000000000000000000@0008U@CTL=2QX:
+00003DU8A580004i0000F0P60000SSj0^P00005cDTM20:k>7>T00004Id5=@@00/Hl;o64500002G18
+FG<000k3000>``77KjQT000mmTU4@EAhG^fM1GQDem[mngggOkmkBh^DhYJ4h4j10/D:2B4^ThVk^i10
+4R0QPA35gMgMgKfh@m42aBVdE2U]ko[_]C<3@`BB46RKNmKck6NB<g?lW=mIkmk_g^Lm:5:TB54YUP8i
+AHXDUFXYT5>TB56YUP8iAHXDUFXYT5>TB56YUP8iAHXDUFXYT5>TB56YUP8iAHXDUFXYT5>TB56YUP8i
+AHXDUFXYT5>TB56YeUlFLSmln`?>7Cb?cG>gHMKP^LP>68i1cT?@ccX9<CgS4Fla0<WZ@LSdc<CD_Y>`
+K/Xj7=en0]oLNJAIPR95RQCmaB1gjlY][9b`1X=Md^3M8P2FEAg@/j8mS:Xh`jRF1hceOM6c[QmjeOF5
+RH4_NS@8A]LV4NSD8QHmZ[W2_;`eG1]hXim=4^JV;l2GAbmYUZa8TJ;oE_gYT?_SSomPcl[mB75:QE[?
+3LHEE32ZkHEN;B9QeShNIQdCI35_gaLFkF9QnDTDc3i;P;5Y5Taj39JU^gXR^PD_@dok/C1]6PIS0alH
+2CQJEeDSeR@N:lJ_`I=7gf_FZ4RAX_lVoFV@8mbf;]b1g]eSdN]3BoB/jPbc5Q42IW4`Kb]PeS`L]Xf2
+X6X@27EmOcPHn/9Ag`/>m@9PgBTIm/dRh5CK3HjeGJ2^h@3[9X7X7[429^kCHMU:P;1cXX1T77X:afML
+cTHj``E3Un3kacmX]T2A8TGo3OYC87MjoeWdkMTG9VG<dK=n87YJSL3W?_?@eFlQC?cV`BIP?VcLYT7E
+:`_ZU]5`4:1be?>1Hh<@f7A9QE?cF7PJ1<;K<1BnX_SE5IneO>3FA;Ron<f`kM`?ZUZ>/6hN2W<j@@6l
+GXe3dJ>/=GaK1V;[PQfJ;E6TB55Yec^5g:m?Wf5:`UAHEK16So[1n=ac3S[ggX1^PH_Adf42C<f7`]9Z
+6>`Lal;FKcK/HUO3__m6Z8?W@MdY3QJ]1<AJAl6n]S=D8[BeegN3F]l3C/;Q^AWh`KNj9ib=<f7IKc?L
+aO:MJk_3_Xh[K1_j`D:h>[<^BNQE?`0V0WI93X=amoYmcIHYDZBX]>ZM@Nk6UcLAfcd6?B[Hhg?k2NPD
+/a56SY=PoHV0UP2FP`Pi7JXk@2f:OCDek?U9T8W_eLkShIRd1NY1>f1_U0;kZ_J`[nD/82LP9XY:`8k5
+C/l5ZQZ>/8YN0BOW:O2/iB]P5`JW^Wi@BmSi`kaCOn7^n/7XHcGL6g[S`?Y3VReDY4QAJM@kPMcAKLOQ
+;<;77Pe3dCUZ7KYich>]22DMZZ^Q[^VD0c<=/5hZW5k;2N[:][1/4`=KmbU`7K8C;Y6;XFkP2iF0XD[l
+c/[05JIeGF0^RTd=NmQfj@O[@M]QdMP75_Z4Fa0L6dO0/Ej0G:IEb`RHMD^6JCeoV9Fga];A:cAKZTRA
+X]:V]`jigL_g`_ISFgC[V8S?nVb5FJl/>0R`BKSUQUYnAD19INP5Da5Zf^Ri@bgnMXUH1?N/OK3^gPnF
+MI`@8QcKV2YAF5^a7oJE7hQ3iE:`_oihK:fHQ1TEXm6_AR2L3;`4m89Pec`BjWZn/1>@=>^B2;>FDNSi
+PBFV3IbUfF95RQBE9[eEb>eJ]PNFIBgAYDLZ^_CI1WG793QD4j5V@Lh]Wj:^h`;[5^4`4f5VS[=cQWEE
+5JcE@i4D_P4kboK7]OlMR==UDk7QXojHEKT?9UH<ahajPk6Z`gAlDGHP[Wj@SW<OYV9JYFRh6OS2E2c?
+[WT4E?EmLQXVf_J1dO/FV=ao^VK;5BUBE5[deR1gM?]af5Bd@IO^Pm4]MQ^2>ZK;l9AeIoW1[:2ReW>E
+8;8F8JJ301i3Dg_Qj9JFkHdkoaR<7NeW8m5/W:c7<cM`TF6[FBdec3j=Q>f80k1[5@[ojQjHD:DgcYLM
+PR/OY26[BRQ<6o_3PR5`hf3I:67N[Pn<QJ=SVXTRAHY:Smh:i:iO^0W7VXkXe[hO>/E/@GcgBO2^k@UK
+?IMl@EIPTJ6Z=l`k9@[Gi@/[OFNhj7W:L?BBP5FoBV9J]cRhCSX:Ii//f5Ffdl`[iZ_Y3=L16n6/7P7;
+JRZHe7F6Xih7YUF>aMdbFEQE8@ifMCgAZfdd[5]7`Ka30/aKAl?T@d^I_jM8TJ;BXA:7g=>OWb:ZBaBj
+e`]2nlReR>hi5BV=F9ofXSFdd8D]XTf2HMDn0KJJ5]CmiI=a/^aPN>QiBMMVEdD5Ybh929Qd2/kM1@cI
+lV[P8CmM?2O38fhEE6bY5L^c4O<CM[4e0hFSBlO^LXVbUhEYZo3W:BIVSH9TB?cEnA^J?E:TB=7OFBD>
+^@Va4m7S8g]d2E`>/ekIb6jFPM16<K2YDdc8]NX=fiKA<==ca?a:OBFL?0GP69YZOdL7ifZMQJ09an3@
+;4RVTK0hOSh0?]UkXJk_8iNUoGd_0CZo>Sjhn64J]UM85=_V1<]V`C9Yf;Ck89QDMdGTic5hn/^_V[eB
+Y4SAgeDU2[UCNdk3[9`EN]Q>@7OW6G3GmlK@=Z?PGCnhj:6ZY]ReRH=5Td14e?31KA5V9UL?TI1jjGO2
+SA5dgV7c4I2jEHBZCS9LECObQnn`0g3^52NQYofmFQBj`<3J_[Si@BKV2WRJea8>d=0;5/;=F@SHmOS0
+BZVODjBX5:S48?O/fFn8kQJ=7TdSdCeP5J`K1L1Kg`m3fhj1Vj4ok?AN>:U25KJTe_F2jY=hV=Gga:Z?
+h[6go41H6;S:g;Pl_jl]82[LF]3`oO1d6`nkBWI@RK3CIm0F^3^<Q1g3f5ccm1:PBjTLP0Oo68bXaW5X
+JiB4mRHIn=aR>:bJQ/Z`mN_;]cEkn>OXa/F_hML^k8fjXSgkmAWVIbo6kYGk=5?bejDCEk1Tm0X/7kmJ
+U3D_Ug6[/G[Z1^aL]PLGSeo6[hE`^FNo>8nQ8J?al?HgVRV5em>OOlGH?Y>aHnTNcIBB4ho7_SD7<B5n
+6Y:LQR3>:PU9SZTH7cME3QKabhnoJ7iIN1gINPb;AnDmM/_4LE/SS]^^iG]aiO@ecJl;eZUmIo=MCV7:
+d[6[/7KjASciiXUVJBodnnnoHhUHk[I5>cEC2ZlkGmg3fVTK<3al;0KH3d:<FGod]Da4E^18[9^a2Ho_
+Oj_iIM5dhLQ5[9^n2M>Bif1/k6Aio>MT;9AehXDiEXEERD5^_CRhAVE]H>bn01Hm<V1GG@F_N/4BLZj6
+O/F0W?QmOC5ObeRheo6BXFEV]G3Q`0X>NnfZZN7L9@5QTdo2/FDXK3nbQVOh0_Q4;LXGLZb[<fTGPED]
+9V9o[M5XkS4M=CeWXTcH:[BbW`2c2RYTnPgCk>6OXgBohNShWQ6lFPKQYnmodT`]VWS1M?iO4oRgSl0O
+OobQVIYG_G/Ub=meNZlW>XQeiUNh;Cg;fL3odg09a6M?WfWVcZ]58iJQbG_]46lc4;oom[]VJ^74RkkI
+Nndaa2]K<jET]7_5?PAm5XD^ojnGg9lNIBcAjb<khM`]iKiaoggKQ6;mc<fJ>Eh_SV78Qg:goc>CblQm
+c5Pj_VL<Dk6NR1im2gaPlASi]0i1boLnTl_9GC[o`nBUKLeM>[cG0bgNjhR=LkIZU_Q2]joMPM67EW1[
+jRlQGaQmooQkS>/c1GK2?73IWhW[@W^lC<[KR^gQ<N`1Yo[N4[25eHjU^a5U72N_XiaS`gg[9HmmcWkT
+G6>l7_N^?Z2IZoPZ4LRaCfY`^a0H]N/?4oN5/^;O[Xhcg0d39>BljPDE;UaU_AW3bV[fD8WR8>JgKQJ1
+OSF3L:E<6WbZ^<2bZW1XeAbPXW?;IaT<FoeRUR0PHAE/bi[3CKRhP27KL[Z1dAeZOl_6R3IA<4oM2GO;
+dOSj7bTHFS40E[G]lEV7>?a?n5Yd4[1FEeKmJHd@5hFc/ZcV2?=:m_;Rh]>m>:;c<ZePQm2^<Jn4G:AA
+GeQDDF=jbQ`/4aO]dS4_2_mO>6bYO=[bh^=5n9VhLO]H3<2g3o<j1nZ7kghDbhbC5ng<e7VJZJlGK`82
+`kVQ3fiO_J>In^JJ9KJQno/Fn?aOiP:lbEPmNCg>k3n7JnN^hnc1la9/M7B4@AMadfD6S7PUa;FjLnd^
+k6Zk`[=5X03oBWW3_cQ^Zk5`n381kDT8kM9KkUOGoc?5Z<San>?g_>N2fl?iEdiJQeDjIOFDmM9iVWf/
+T^MaUMQfgNmIETaH8oIQ4ih8>>GFCA4AF5EgQ6oKD?`RG?;[M?g23OTPJblPa_]iF>PHK9jgG@j^LOG<
+EkQdlPX>K3P/ml]:G:>4Dk[?/5LnR7lCdMj8R77XnTmCLAc<iGi<BI`YUg]Xbe5l/NT8]RoISCWY2a5W
+?A167hSc81i6<`K=eBbQN2XAb6eK/1g6Y;_[O3T<T[ZVP91nC^OiS3HS4=jhcj/K7PPPmUN]j`WeIg5`
+M1P3io15L4_L1?F`_IQ/=Q/WZ`f3CoaZ^?]=Pj_a@:PKnTYgYVdieAKFacTd3D;hY1=`KQL5aloj8WST
+@CSDmh5:foPPeZM^j0N7`K^P/Qd1dnZfF5Xa3UnDBh6]_R]LZjW@[_=0o3]d3Hb[^V9Dj6S=W[iK3O7>
+a^Oo=YMQPH<h=Yh]Q9]kDW@gac2D;R:/Fn`[8LNW:b7gj=iScIB2aE6H0c]4bX]kX7<Jo_?7OcCO_2bV
+4mT:0?22?KCiR6IZ`F;e0<lAXGi`@lWe:ehjIZEd2XCA]TFk=5?c5flfCn6LjE8bQ9=nWNiN_`O[6Th8
+kmi7<bEodD5]VR/N^6;oj8ZVRc2]:;Yhk;80Y1T6^FMZYQANGenj9KNAEAn_Je3S`1DNc@;T=ZKi37g]
+PhH?dL2>TM9iSnlkAC<e[nIV;Q;GRc5L6o]9AdgX_DXWMYfBij7CoiQPfn9GWk=GZD@P5flJ3j?V<C1c
+VRm19D==LB89]X@F:ASD>S=o9bNPXbKLVPA2iCP>m/WKhISm1IbC]l8i@T3>Mbi/_BMSG]=/k:^N2INH
+aO1;ghWPbJL@8R3V5k/D;P9R35=e6aKXiWa3IR>Xgb[H=o97b=S3L6XC8@4XgI`0Xd__IG0<VPOk:RYH
+j;/P/YHoKYK9A7B]05R:omeZ^N9Sc`EXJ98=ScX^QK[aBe:/[j1KlVhM;>^oAXXWOo_g^//jWZ:ZZ92k
+:Fj8`^Snc@ObIR282HJ2a7XP?[eM6_WP`Jf2jnOXVV9<ndVh_>WCFeNl2NV0^6o7MYkDC7fej<ihk>UF
+EdiLZiVJ_`PiVi[>dYWlWXlkbjdC^dk;DJo=?[K7UE=G=E=O[a>kCl]ScHM:DEEHb?5QUN@hA9h3EQTD
+EXo^?TJ:FdJ1XOQggcbAc]bR/UZji/;Zc85c<Q884Bjh^7YSb5dCe]EJf61CjbV`kYHVGI`F=PBKMod@
+S?Qd?;cZ1l=61gCZVSU@/[HK1J/QNf6K^1GfmZ=PgbYLPXP>cDdo11K2MLd_7hdMi@K0X[X8EDFHj]0l
+1>jZH@S:f878nIL@=60]75^5`EJ4UW9N<HmSlf14S3l2Ulka21I^d:e78^c4<]VYgjUW2]`cm/:nW[Md
+MFc8/1?>lfRi@IQN>EJf_;[DL437KZWhEn1Bm2a_QgEC=fSfn=dXeC=;GVSJ6hc7fKBR2^h2:P`3Rj:g
+1CV:3A:l21V6_4X<J`SY0N[11KZnb@=Vb]od]DXBCoVReN6mBZTN>LMbOWKAF/]?kCdSjijL6oR8T?`k
+cMBl:R[T:3XNKQ?3]L;ZGD2>3b^6R:bj:>bn54HGSef2lHMF//6RZ6:XGY`64jgN679cDnNRNgD?F3P]
+P8Z9];WZbPRji5KYB6VElAabSP8feRg2d:fg20NCMl7F;2?Wmf`LT6i;>3`33gPgS8J5X@NVEhZABL3F
+K5WE@8a9`7A_[P9NX@9RdO<^`T/m?2N45M_0k`?k;TM0a7`4YVb2YeffW<K]laZl3Ljf@j6ZlZ8aPV1S
+7]jNlP=c^XkE5R5dhe2dl5h6XgY1j6le@;?7Keo?GEb[H?cdoLnJZL3@h=7hE41PdHSUVRV5dm^4g;U3
+Gl[@</4fFC<UOc59W>4LPLR`9KOHf/Wj<TM3CmcijZiVjY^;hBo[S5bKn<VG8aEEfD6SLQhfT`YfLlF1
+g:VmIm7mgaJbkZV`NQN@hl>edoofa9iEncECBTIGcea3[`Zf2?llES?UgNV=8MNgEab<f`b0]NDT4GkV
+[GLSi3`<0c3bd`T8JM@KZZZf<6gO5bdCMj1[d4;H=OB7VW0C8J4<9@Ta<Hn3_POljdG9U97QEL9aZ^aP
+>8S_^3bEP:1:Ga@aSjd0Uif0WIOWN<@/n`X1d@/Uo6a4b>[B[Ao2Ana5L?Yfn7Q<P4di2kP85nNC/C]W
+nkAeM::H6KPP_EXhcYHM8[^>fHSU^hW?D<^I/>RD0ZNjK_SVk[]i4mQPSO=HTB]<^WKf^PbkG1[iiY/V
+D93N:^Bn^23Qe<l^AC>UH;4bfkJF2hc;F^?XSQ>JZCTY2X@KUk=_kD7=e98AFaYIKcPRo=E>/b0a=HBQ
+MZ93ZVI:GQD7LT`=HX<BFe/;:bgTV?IBE1D6LVa=iKG5D]AXhGGR>UU_ed>LhhG3UnKKj?:fm4J@NgS[
+8IcZNL;LM3c/>RJ;d>m5_IQ^/JkSQ:RVlASKLPA/>Pb0@Kn]j>@`7Ph2AW;89@=?f=LEXJ>QS`PQoF1O
+geo4kj48J1`?6n4>hoBSLNG3M0CG3H>ZHC2L6XC0VB?oR^;2HQ00YjY^l>VISSj;[R4hHHE`Rbi`Z^V>
+R;C]R9Ym7Wh1dbGTO19F`hG0Zf8W@eA]cYfUP6U<cD1LoS1=9PUK2LPieG57V?44F9Z=P<U7]SRhoP_=
+W[lmdATA0Z`?dWEaFS7_S6j>NFn5eM^4g3cQb]P2mjX:IefadYo@H2X3jfTXQZN4n]Bg<=cEi?hci;;G
+C]^XVE8d/Jj9D@D[`7oi:Ool^N8i^C<BF?eEPcACGRm2S^k_EL0]B8F175>=644DaEdFA@Lf79;Y9ego
+WbTR1MaW3YhWLcOiX:CSo_K1MhG:_bbZgPQb1lECejBZ2ja]Id7E=>aU9bMMVG1:`VgANCV8<36lHaH<
+hgNPQO]df3L<Q;YY15@]XV7OG9AVDE0gRhBjBH@<4mdJAb58@<iN@<fSGS2no708<V_5`Z:1[acldU6h
+@bM3Oe42h6`H21NFZ^k`k3`0<H^^839Z>Kc;R@_?IbIRe]a2A>Q213B8@?28;a3@ZRnlJW[1CMlKS/8a
+/RFHgLB21M`^2LQ5/O51o>lXmZ5?im6`=An;kYGDV3YPQVK?gikHLYHC7ZgCC7UId/d91l1jX^l:B=g8
+[J92SSM]HDBG`iICgQQWaHEJF;52VgE_6OhS<6_8O5Vi7f/nh;F]KLDAdd2HGkIoGO4ND6`<HBX5[nT7
+hZ6NWhX3^N5QHnG38Ko@_B2mKLPM4njJ:BjI0B<eDdYNK9F?5=NIlHOFL_mik^WPcB^[hB3L_7O[4=Wh
+a6X2Y]o`NWmC_A7T5PeM1:?Jo[2e4]3B]:YbV766PJZjG[1[50SKiQ6bkbU;=A6N]PUJRoBFFG2/7`1[
+E_b;gc4?AaN<7<KLDmlGhO[Q4Y1Vn/kHm=40K:c@GhBECSWQJ^k2l5G0b[JB;Mb<Tm5Wa@fhVjO2jI<8
+m5en7L6A2n5UVHF0i<g`[^698;dPQ>V58;:>:>8c@2l0LKF2IM8aFeYkRODhjG/RZL<HZ4e6XK^N5`JZ
+2ooD;HkHT/@L;IlfXOSi5EWgfL6S9BCVIAG^1RTZi;PMSnmm:eg<lg;_<AkNNBCc[OQ47QTaGUjHC<_P
+4kTXH_dL`c@SLJ6cWXK9Y2FI3jN[C05BK^?^ULF[Hn:fnW`B:Zn]neno6W8l_XDA6i?Xe]Vml>j=`Se@
+Z;L=^L>Jd9b0NM/jOoQ;[9Vf0E>BI/V4kchFR@S^52gCBiPKf_FOI_8JIf<K<`]noR5_E5=H_A7TAXB<
+Q77SF=Se523@]9Ibe13[Cf9PeKH?K5X9^3D=QI>N>mZ8D;9/kkGB[DeYU8U9mHL8Yn@^Qdmjk_hdQF6T
+Sgh08PTilKLI^emE3lEG7fC0[kI?C/=0[WUd2d77l3AVcWTh]@Y3m;S32>Vg2WimU/;CHb:/AJS:DDfh
+7^Kb^NYk`D?O1d=ZA8Q`=AfYh]>k]SOl38<a^<=HZ;ZU`kQ9248oRbcAE[oLBWA<UDVXc25jU@PK>n6<
+2@MJo=NY/91STRlQUo>B87OiZBglgjFQSlcG8hSY=SUmlLRR=H9XaBLdUlW]HYNW]bF6Zg@<k?ID737U
+QO_97RL5?GP8>MHe/RO5_I/?l53<@mO7`Ri]MfoLUj4P@gGFYm6i47;KRiSkmKHQMoWTEMVJ76_FGc?U
+gHXm?WillR=^Gk^;hk]>HGKJ0UV]`LHZ=XPD]kGgSB0GKmT?_MX>PZY;1V`JRA3_dcQH]Nh]7IadIl;A
+>MAbPZe`JfG3Ej5e[``hE;>3BedOc6RHSLEe/n2]i`?cG:0SP?`9>Kd`2B9]gATK7nIDjR>7Bm;mONk2
+eUFFb76741Ri027aba4eJSm2/WOWM=J_oZ;^T</UB;W<8MG2L:k/4?SGlDE@;An<<1R0/Le7`[Im8X`o
+4DnI1]k5jXMI69gLLdKFEk3nQlj8FO8;QRg=]c2aUHVhc1[WQO0j5AEb3;_XjUjDN=TbB^O6QPonK_f/
+cN:6O[>gWC7gbKZjDh5QH4UXbh8Mj?@o?C78;D<cYFQR@`QC:YSjDY08>LMjGQ9dMWG4mBZ^NfeAROn]
+JcS3A3QFQVKL5Ym?@[1oKM73ikL=>MH1Nc@?U>N4SD5o1MdC3`Qf/n=nLon;Xf93SSM;a>NmHOII5Za<
+A/:bMAAD8_cTL>Fj[IK<=f_EHk3/3fY[j0D7lIfe_P/L33`a[FhZ]]DIS[PjXA9dK=7T?>ae4:POR2P=
+i3R=:Ai3ZdG8Q5fj>CHDJ=NAGf6jR;]I:Z:WWIH^[Xm`MJ53md0]g8nZM]ii^OaU5A>`/d8BC0fLIKY:
+I^]QB6/d657=1/:VGCa/JS_;]hjm3O72iM>M=d=>gm4N[bQ6/Tk3]:8MW1_j_[KE]jSQJWj34_cW?onA
+OEEIIa?@?T8hb>9eb]J:mFmd?[bQKUeiNh<Pl=S@OC:=Q:5fDLD4Eai_iVXE94:>mDWf1^kb68Mm;PXo
+=HFQNIae4TI7Cl3f9K^:7GZmKLQA[0[Qo/i9Oog3/jQjeKGg:[7NUXe]aDV4YhX=>KJ217D8QmeW@j5Z
+WiCC/ZX9JkB50e8BJQFlij6NmDP9?>eg11[;<?eh7:Xa0]=[m1=Q[@O<161/10B3m@8A;N2WQA`oK@cL
+L;1L2[H;4;6Q@?]M_TF/Vfh^=7<7NTlmRKj;;R=X`1ZIKY9k>kULYXd`E1eE=@Y6N_J8KQ:?k;JShEa?
+K4OS0NSO>P?FhTUmnN@EcA4X>O7RIKLWGX0KIVfAJ@n5:LT^jK;[3O^J_TY5QMb]:`GGSk4NT8k4XgW0
+6l7YGD6>H/8]@eJ6?4DA6b^H0lPnZMlo;SS7C[OQhCLAL_61l;`DT?QL7;d;b5dhO566[7BUC40_R]Se
+R_eolm]WMVMc5mO<cH^5KkWGJU[bK5ToaojiaE6a8OOSTioPfCX@oAX?@TCS_[2/oG8ODQI7hGa<VXKP
+Ol9GXi/8mia5j:[k?B551aNS5hZMeC:a_g86TV^6`d:0cU_O7e4jT6=QcUaXKCoL:Y>5ZIESI8RIkk1;
+VV9GF@D_im68GG8=LJ;h1LlB3Ro_J2ALcSBa_4/2LXh2S1h=PS7ZdhT8KQ@]W:Vkf;mnb?iT9>b[^n7D
+oS>J8e1bHRS4G:ie<cMYYQA>k7YTFMEAQ[R/Yb]8AHGLje9820e^;m=LRY^hnbhQaj60f?f<HBMM@F74
+OZ9dIegnWbTfcm^VVIZoM25GLTS;:`Vimbf:U7JREF4QAc4MR>OG]feHXLl=QecRlNGmm<]?CcECGhQS
+<g9dUGCOXXgZ`cXj3RY04g2V2=g1M5E/b?dT;;MGVf14=T_1R;IShM/P5=IjC[9GPaHl;SDMdJIc8_hI
+]0`fQ]kBeNW2AE//1>PLmCda/DHlCWll55/ZYB2cIVn4jPFSU`0NjnRd_nDHL4>ZQn7QnmTH;E`G0JGk
+_FiQD[1CfbSdW_/U4]KNTL2C_AidO/<1>=UOmNkkFLRZ70:7QP4HdFhlHY/U`[Bf?O`<@c7lTc7BbEUD
+MiASY9FTF<7JGKP5YRV`9JnX6]ekX[CbdekQiTXJL]CHV9a^FPaMRe=?nBhQAc4_SO_FkInV/[F^X6fV
+nf8mW[Z^QkSAS@^EojL;^N9FSQM6k`YbS=;jZe9Tf<Z:OcJH53AD5U_NnM1S6Q6g[J0QZURm`F6Tf;36
+T?S[bjnoaSSJ2K^1lCb`UdMa`meR@hhS:PAgRXAUQg@TM1b3DFg78K5i2Wc[1/Xj=H;;_XHmm2b7XIc7
+;>V@M>6B^a1D35D3j_QQLID1>?ia=[IDCTEjmG0IB[970T=D_ZN1X1]F=A8?bVASEZDn/1KQY^i`j<l;
+XE[G4h5mUR5ba3jh6@nDoEOi7AdR0AUAbanGbjARiDOal6dJPoCfHa3K?56>JQcGY3n6]a^;i7K3HMd^
+7UHeWG2e10OcNoK[Kg:/=HIoO18FAkaHF=o4OJ:cbdmO7[^4GR842NWLniDG2Q<dcB_KbfcledV`@5b/
+XbCXN7?OooZ1iY_2RI1Sh`VgWCOP^m2AKLMURcA3EgKcVYP`GHiGaPkSagJLU4<S<DN;mHhLSXWY3HCN
+jd@gBh3`n;i=b1gKNDXV4;n^2een^_WUeo9Hnk@9`Bn5N9Qb]9/dkj4BBS`F[5MT8aL7CNF`B9^4^adE
+=D6VO=3e<J;PP9f_4]daZcUhcMR8L7R@NhJ/jfC_5cj8>G`C1e3P<5:3?C;U<UT77FfBD:P/PX9DK<Sa
+i4OeR9D=3famm3L<AWX[0IeVHc2mGS[Bm?XP^XH?J]U?@PF7lF:Wk2F8V?i1X>FdJ^J2TRSbKOP2M[e5
+2;^/FP[>E4S7jO;YF5`Y0Oe[1T_PLCUM31f@D2=8_U?eRo8YdXdAQ2`_>C/1>ZJDl0GG76Z9:B<<N`W;
+HEDSL?V3=6b_UX6TEVTHggXL9SO:`/Bj:ISCI1B6]AZ6Y0H3h=hd6TK]HVDMHdVj3XiSYVe]:hj;dfZ<
+L5F=gf/[Fegc4a];n9B=j=kWUCL]naEb@<K2]ZcajIkZUBd7aQ`S76EAa6hmM:md0?OO/9Ff:68n7PLR
+YJ/Sk7SlFNo6o33ND=gnIHIP0J^Mb`ZOeT9Gb7boX8iAhR7bmP9F9UcC]M=U5EE/YFC>6D<o?V0::mKm
+1WB8T>3WlN6`A`a;jJkXm:`4R5SGBDPEAV`8V]Q_^X@SNci`VA``TfU9LQ`o/FbN5ih?Y^d`FKXh8cG[
+Z]R@X`HjY<2/eD3H<hFTY[e`AjhBMQV6oK5<?a>kJXS@/mH`;:RCPDUEHi5L8dcFZKW[NDTWaAIBi/2a
+IE?[e0PPO[XJn<;O81Q>0T[Y=B:`nN>1>5Ln0bO:Yf7Ma`<`^UXdP/FbNP^hkJR@Q6/2MR/[9TS`LAi2
+C3Hn2;1iVPn1]fXXe8JN/:[SQ7h2UW/[9<_g>icj:1?[m8IRYmS>KCDb/KQf:XKGCDBXHIQ<;HV/6@2G
+5[7XfBX:WTgmWWM5:PTAK0^6;/FYOFmFclM@P8=B5YA@Bk0Mg7QHiT6mBT`2iY>j:3LZ1daUbP_3`J::
+fNlLVZL`KZVTaH5@fCMhF=PH9;^:Qk;_<3Vl4mdN7GIAa>gO]F8_C^hYGXY3HOFKf2h>@DmWGQ`afIM9
+^4DE8G=``f7<4>Li`gnhC=kU@hg3^]nhD;a/PbN?_/OQ;LOTPiVS3g?<A2HQ/gZ0SY[^[[PSHNOF6d5^
+HYn9j5To6VZSdL8a/A70CMK9FF[bgX95j>WKLAA6=Aj1?AlUhiA`IAO:IN1/^C@L4^i[JhE4;?Th7U<Z
+alS`TbnYjE/c466eO15M9`CaNU6baIG08Q@3j_PR/gXTEUKZSb<EDRGd3Whd65/404nE7b:QMN>339`^
+>aSYeL9PEUd5?jn9B5Se=A;Fg4I8gfGXEE^=TEFRL?n3hCP]]^M0YGC/[Y:6UCEB<E@_3^46XG0bl99S
+b[6E]gO]D:SJa/6hHA2RNkcJ2BUBY>R_YcN2g:[aZf1LdaOfIU=b>]W[Y6H@N>YJJ[c_<QTO>Xf7Ddd7
+N>QibgjQK3RHDRD6bcm>T2k/B;U1>5<fEGJYHQX7>lWcToe8cglh16O5MjM4hGQ_1lXWhd2iI1`_>`PG
+?aR2[lZThkX0fdGang=Udg11U8MUQ/WFDY>J:TBTKDGl/^_X^o0bHZNNP5D3ChCGl<GalZVhFSHCibYT
+H5jeoQQH9`[3j_C5n3[m<E5o84KG7HQT`kj8eXnD;ihfZ^f9]2:V82QBY>S?ea]1k[@8DLb[^d1U?UEf
+ZYO39FW[`TAa[N400l_Q:>Ln4`jeLeY16J8b73DEQB4Zjn3XdYce?>5Eaa]1]GeUgm41=L<`[5JL1696
+]G1TE`g7/2YRVRRSQ>^KF;d?I]M8a8ZJZEQNJ`PfETo3JA5jGR^KQB?U1f>@V<nL;m>abdKLXR^8GghM
+0D4cIIjLMWga8[AMoe5oG2nCPK72gK4UUg1f4n5dZ7hPQQT<`:Q6JK3/W8@N5NfaX0PSObQBY>R_XCN2
+77?U_9[k`j[K2=Rgcc_D4U=8FWM9`_l6;XF=Y[N3k_L/fPH80Y19^NaYH27PIe?G4ike8fCWO1<3AeSG
+lhAK`e3i_XP1SA<aY>5093I8@5cMgUQA9DW0;E>n/Y1M/aa5R:_]gfYG``T^WdK3]D^l76aCjcIcFW=c
+H<^gP=d_ThgaEJ9UBPTQb3je[PH1R6bA3;]>bC2[Y<;YOFLeNji8TJ:oRmh8LUB:db2H=8j5bWA27ROW
+9=aKcfJQN2m/5Ci_5@UW@TKWno`:Geg8=mZ[3K`@e2@>8DgS4MLl6BW=Di7B>1T9mOXPa204]PK^l:_]
+QEgU4g7UPcB<5>j>h68SaT^]Z`HLBRWWKcE7?LWEfh7O6MEe`W0a?i><fC2RkC;VESl<3QeCH=4l2Uk=
+o4^/8UBA8TG_CVl<^GGCe/>hTQ?/K6N9T3DTImQ`3D2HLZ4Fd?Zgcg`HVVG3EI>SU[]`U0MKCL>5Foe0
+13N;Afc[E2BdcDK_iTT8[1l>=`<OlC]GF>^i`4Ph>cI@L5@B^SOO>Sk?7MQ;baG[LncH5f7SSR1feUUh
+fVKWnoiE>e7HZ/_j?]HCVQY`84l_N;K/3o_?df5DeAWI0B<dNja8TJ:oTmhHLXo^?Y93Pe_f605E]d`A
+/[h<<]K;=NZISWn8T5DUG9DLKdkc7LN=/mEc5_?k8;1a3?Zd6XbhCm8@dJ`O_>Z7`:=AKjS5MaaIF0/`
+>[F1eD=`CkR^9Ao7bDAP0TZkC=g2McRhNTe1m::[j3?_BoRbCRiGS`M]8BCIPd8>/bjfdKEIKkQdBX=i
+a`Cd:VmCXZo7DjA8dK_C6d>>b_;9QU4M?mRXi/:nWVm>C`<=?1a526_Ad5n4[:_AZ^]0jNKhWPJ6YNke
+Pa3E?17a[M?@^dDBO1^8l520T:j>aKUAY1cZW0j>0`cbkOWa=H=`E`2>?Agh?n_aM67e_;27AGdON:C_
+A_C</`R>GH:Pa;E@eM2lUS3GklgeGA1O?E2fj8KGShI3nbBHMDe6[g[nl?nTL5WRRQ@Yn^^YA21gI_mI
+V5NdQJG59=QfCHNmcV/9FNSV6:jn5k8Li_FmhF/HR=PF:DQXUHK@9WgQD]MGhn[HkeD3804fadIQL6XL
+:OmV@h9?7FmL4b4ZLn_be;gU:R[Qf1`MA/=kjSU4Cc`2]nh343YlWgca]6b0d?iF08l@]C;d@;9NKe`Y
+T`[Oa]7X:H1/eWV07?iXhM2R_L[^GNSGWioQk[Uk^7oY8AiNn@Jgcmc5ShmNe1Wno^ago?[SRcj:_gco
+m:GA8MSSh9^[Sn@bkYbmRdOGGomNfMmnoAd?a?[^W;f7YcoT3oeOOgZ6Zo^o`^>KNHMRhSKmn<g[jcFo
+oOZkO1>BooS]3kV_G?nC^gWO4_m<[?^Wabl?HlAULOo^GKP_iognO]kAA?khoCohmUJ^KT=RmHnnNRCG
+mLfeW>?4hjFK9oWS=coVnd8F[^OJ`A]bNg>;jnMaX7iknQ]no_Ke`bia7@n_O_?lG3fnlN;Hl[__K[nL
+X9kkoio4ML7mh;W;Cdo^?<4M/F`^omjG3ii_7lE[Q__?mNHiAT:?KcbFglUSM?jNg?OL^JBLM^_DWINF
+nbiE8Y2S1]PTXZM182bM5d;E8>2U^SVngh6_5ZcY<@l^?LHQ^DTB0Q/9]bAL6em0CEOg73[J@_OF<0R>
+cF<Tn=PH`;7Nn9Ik9PLGj>1H>9aBB`78S;g`cMj7b:6kiH^UPhI/Pk_Md9bAB3A`DmOeQV^SD:RKQF=D
+[Khhlf4ZK3[dQi7a49R9oG1_i5>R_Aa:B[aXYc_<aOQNdc3jlhVHK3<CYeJlj7E`HL]5[8[;6I[VM`6W
+NCj;aLGohR:m^><:QWLLReU^2c1E=A][nVmlkK10AaNMa;3fHc5=?DN/MbZ^k7ei:1h2Mj;U34baWHDa
+?BKSl=aSVVmbM4N0N:kgZm=`N4>V=an>/n_b3XA`O^>GH_eS<<=i7/JIC<6^<Bn?X7ajeET/kogb2<0K
+1Vg1I>^IV>^e28<KI66]f<oL>RNFbgGZ?R@8ScGm=/SS>_bcLG8I:o^/OGjSl__IkP]akoc;GM;fS=n?
+/LICa7bci75m;22[ZkD3=V9iM<jhJ5OgGlNRT1GbkeOY`YI;6=kQaKUJ?g3cLi3`g4iCclF9YCVm;KIV
+kLCBR5GbKjdF12bEaf^Be@c<me_b4URica?<YV6JoAc<5<Me]_^2Uf3fUH3e<;7^6Dkc<=id6SJ9NnPi
+f<DVK4S9>KkJHk@/JSFNoI;CHh@@GinlFEh?W7n:>2Jl1]jeBPab9gNOPUTi:eRHSX6efKSWjB@4624E
+dC06LFdbdLam:EYgBhICEE_Ih907D=Y2l=GcPkYE7<`<gI1F;@bgbVC:eToVfNDk3`_3E14R>hP;E1fn
+F7K>3hUO0I^bi_1d7Xf0`E]TPhB3XBmLVXC3[ETdG1X4BFNhZWaOK:ZNSZhVZC3[e0o67ePEnSd:Oh[4
+AOK5[2=H6[TZcm?ci<ZcV>NK0aBj;UkPSlACEj^S2diP/G3F_okdZo`n?mNAFc]6k14GnGKi=b5406SG
+b`n2Q3LimN3b=aSCOI9d1eYmON:f1?>[]6?D7Xc[>DE2nOW=Y=71jHL5^7<6[oa9g:PS^db@3TN[hd]>
+HF7@</eo6VT>bj7IA`El9^>kFblo/0SfnGh20V:Mg;oLX_>LI3DcSc?UlN9=Nn_TRjid]lCnSNW>MNA0
+P/1I6;S/YG>c?WT;hR^Ub>=7Mc=;P?9eh[H_2E_io5cUMT@l[Y?4`fGSh:fHHSLkSi>KhCQG^Rf:fk=k
+k8^70adlcb<MiU?Qo;F0d^[djW=H59`ca3gG>eZLdi]7Gai@hNO_OQH?]nT_W@_Zo/F7b6Pi0SN?gI9A
+1IMeoM0=cKO_CRD6>FYX`70HEGJ2VO/Bf;I;48i:;C_4acI?AUlAWW[FlH2QLB[NjkdAkC/T`:fJn;hP
+d75jGDoH]XV7GGeO72fKPTDOalT6PWaocd;g:5bL:VPNk=?f@]DX0>72aGTk38M]AF/h=?97h>S3L;LL
+2^Nj0G1Z42SWHh^]ZihW;[do69U=dm3II33<J[/SX6fX75;Z[j`SlhiSNDcNmaMl^Ofb7?BCCglnYDMe
+VhS_kkd8lLj8VbbkgFS<5]ocBK]cm>/kY>nIL01;Q4_PAK/iOC_V2ENV_H5i4DldWojB6eXB_U;NX5XA
+23=M2Qk?SCLJ]o?jhI]RVfOSe<ZGnl<NFgaBg/ckYWb1KD=gBGNP6ojNF7HJRd?c>Z?;^jl:ecY>P3M_
+^7IjcCU<5F2hLNBVG7O^<?RG9doUlLTmWI3SLKemnXDc>B0P[>/T>Ll4hGkHieB[MHVKA=T/gO3fHK_c
+gMkL>RDLJWJk<CWWBX1eU`jT]=XomA32gn^;:g_bSY8cbfdnSRhlPJnn^26gV@lh[KR=Xk]?U0lO`W1a
+f0X9Djfng7Y9>[SmhYS_6[e?WYOL`>O_2L[LdoT0fC?nP3ang5lN6me@nefYA277]aTieW62jBL2AQi;
+H=O03c6=ha7M;54j>S_Q/9PPg<0dBh;^Tji9/[j>SA=iP<DR@6OJ=QKamN=`hoddfB6oX67?e@aAjkS2
+9V0^K3<>@=Dl14i=0a4mh`bL>oN7FXBT3Pe2h:hN3MnAQf3O912ZBSIb_Uiee1QC9@ZGbfG2Y_/@V;J>
+Q<V7USR`oZoOXTZ8<4C8[C=[cd/8<3bh;Rk^2@90ggkmhP8k9T9??]D9?SkiFFOg>_4VcVhk1[=L5lQe
+/[i;:ek@<igWbmm@gmok@HB/;coejCQN1CTjWn`f0[`RI1YW<UG2QoF0FQ5bM5`4AE:M=1UVjXY>C^/j
+]2:4AWFM81a4gXkTM2H<mKP^[S>[cBQ/B/]aZU[mo>d_<Pc;k@2UTa<g;mfHEX@8miUeMMBnB@MUB:_[
+i7RSWa5P_GK`>Y9Z3i7Wh7ERf<omhS7U^GZJjecM?Wd74bfVbc2FhBaoYj^I[_<5Z:K:1ajM]Vje1:53
+UdoWcKZi7ajno5;Y;kMNUXjL3SAI?ae7iQoGO?=2M9MdLXnnN[UNU`lEGVN4?9Nk`7lYE/Blo<;dMj4B
+QAbeIOifV;a_1Q?cDK1aGX2nCA=UfXRf@H7>SJ1[JSa4PTk?ISA/QF=SZj/3@eAMN8WiN[H:abb3=1`X
+VbCCAG8?cj@FhJUS=G_H2:RIA:f0aL0MD7gJ1kKEW>3S=agQh`k3_UT4e?GmiNmEENgQiS<=kUWkh62A
+2L/^lG0BH>>@CF<JYZ5KU`@HOfR5DI7S=G_deeI1CXi>SDi:BUcCdlECFQM:icOUe6oa9V<mfFIaLnL>
+NG=[mmSmd/4EY=_RQRN4N3>aCXi>AEN/n6KmcQc?AA:8ji8f?`m9jN9HclMj_JLo<2ckEBi7eldAj6/5
+h:QC8QbO8]c3cmnm68KWi8Xc;oIIR82Tlf?8a;X_^QRjDJgh821diOZ44nE=bOXdgG2?biM>kTh^9bNf
+VlNDMJ>jfY:i@hK5/mdFBWSZQ^_DjX@=>2c>6KDYMI]lH;a>g4kFQC8Dcgf^^>d4705?lC_F^nV:ae4G
+a[[jhL6?4/ac_AK;^S_2m3/1>jfhKVdMgjFMEnC3TS3D5Egl5;]INE`JGN9DeAc<mUPXc`_[Jbo]:_WG
+1ka>9@hiJUC4F3T^VHW[G5SKC<iYKME9:b7Xj>0j2IO6DH=I>88`0LKYC[FLIA8aik5/k8oMEC<a_f:/
+[3NC2LIR^V==9cQEEl>^WPnjF`g7YlVkd;g?N]Qd6P3K9Z6`JaJ>l367h1^i47JEkG;Zn;Qn0UL0eLU/
+2>aSEj9Gk0Z/Kcd=alX?PEVGA1QGER>/Lo@[gg_jEa8[TGD_BZehhFT_A]h?ghY@@[ONSIG2=dAHb52>
+5nn]TjlO9hnQ8Fn:EhV]V``1jMYbRf3PcGIiElhjjO:NQk/o?I>]L;XRn5h2S]QGGMP@8<mnOZKiCmc`
+`^7XQYEL7ed>`en6LIMfG<7mRbl6mnA_Lk/NKX=^ZcAM3ae:k_Y1RPl=GJNY5L=i`R6oUU<N?bfH^LcL
+mESijKMOOY?kl?aLjAaK[UmgWbRfL^Z:HFAnfjWE_@/?i3WQlZo^oNZUHdZ7[o]`i;XH`^^:Yi1eNoVe
+WW8JUgefoHFGc/fke5^17<MhSc7Z8h3QR1jnBf1V>AX>]G8J1=RR:N_Kj>P4d=RWeM1RV<bSnkn0aFS@
+:a<mFTK0C[Pk_/j@GL6>ETS5a8lSH5G;GXh`K5_?6cgKaZ2=oCPdj;<A;N8f`ER0;^MER9j`ZjZ6^e4B
+8QMMPe??5:RZZIl3EQJaKS/1B9?JmYQA8@:goif>P7HYn5a<MaCOUlAK^aDYD_CGd5^17<Dg[PMn4PCS
+6VkX7[P2iWJChF8H2<MjPG2X7`2eX@o/jg[;5dbk2UMVeSP83Dfcl6ooaGP_O3Gn:H1G`FdjJPV@kJfD
+PM@VVJSR>Q4eONJRR[3?EF<fX47@HW@eBI=^cU6h<hJ^K5eU^TQ8fUKhScd2E@>oW1IG7LPa_hi3WdnX
+58D7kfLS/OTPM3GdP6eE1oWnDdF:59DN_CG8DGbeWDmC7aQGMd>gh1GXjCP=SXInL:XG08O64G1X6PVe
+:?I=8n3H:5BVLZRJAl;X/bBdj9D5?M/a0WAC/;Qf9VHf6X>:W]?@f7XT?^^F1;?VXA9ZCXBKC/>5GBDk
+N:Z68VcaMCSjcl[Sh]Q``C;WheSL;c<DPi/TXh^16j`Zfl_aoQDYDUBjm5HQAo5m0F4M`V1Db@5MQD_[
+jS/?]PelhE0]9b5G5d0/[7=c4_1b4Fj<3AAF]MG8ZQZ6jfFch:g_0eD=5Ia[><[ajG;?[j[V0<NFX@RM
+L0a^hdi0eBTNmP:2o8k^SNTWk3Fa/m`0g2`g3?dKmdMW4C8cS>K@d8XD:BYmN^^@Xkimn0@3[1?URbZj
+>Dk6Im7[HMhi4FX1<GF^Mk7V;^bHkb0nCiHMS7FETVCS0lNLbodk_Wj@`bZaEh?Gb4>`SEX^6aWHED`k
+@/VX:Q6hDBHMGeC>PWnSJ7B/J0g_UX756_MNTB95O`nm4lQAk8/h<gTF;<YIX]^WoO1Ik2IdMil9VfHR
+k1A^BZdcX6G^`T4d>F`jNcc`eH7/[<lj=CVZ/840XG1[7>74Km1VN0mHReiaJf7JLb1<JmS9]g/=[AZ>
+Tal>`_Eb@c51Wj3d@ZL?cC7H;D?F7BYBY:SdjYe1CZ_3VhlRk=<@M:oVRRh^dm59`<iH=Dk0;PAZ4H:Z
+AIPZjmQb0Ho_I>e]48h;7`g5QC:3<:ib589[n@Xh^T3E=Q8N6M_Q6K<H]UK3hNVm28>Z1695QKkb?A2G
+b`o5g3XYl:PO8]fKHge?[9b@=kM<TB95YDo_778DLm3V3Yh3Yc[>j=HX79fmij=cc4HH^Dj7AJMn/ZN4
+OFgG7>2a<6m>57<mM[c_SLUe1^;/obGQf[mBLO[mPCQT>0H7Vdo6`Go5hfBUK5`^Vh6;iC:a_GXVQQXV
+`ZEn<3YE/H=Y=CFbPdK:U`4[DZCX_d=_5G9<m?cmmmoajjnohYMOO/5??of4kgoh0Como2=nafnhO?Hb
+9/J>Pe/SKg@Wk5BCd2EZ;KY5[8JAn`bHVVD;j?F7mBOA/6TN1YE`NcHMHV7/=@VNdL/a<6HKAWNKP2WE
+nf5bRc4Hffdf<YX<AWBC1;PdSH:a_PLjOf`;ZeY>6>:CQJ>kSn?GgioRjK=Ol?gggn?77go4ccoo;;O_
+]mmnNnGKiADYD_CgE8U3CQM/1<P?0V[OOOLM_Wgl6=mll`dN?7R0^gO_h_K]fkSol3hNOol8IhjMaYbd
+6NSMXcM/6_ZSNm]hM;4JPjjn2bG`?XmNQll5o4ckKX1[lQJh9Zb3GOPR6;U=A7_kdFS]>aNONTa3]oHa
+j2HLGoM::YP;eaKH8@aS4bKR`?J3N?3X0AhnOR3GNnO>7MboOaoO?7b8af:k^7gLCVk_djM?9O1NelE9
+TB95O`nE6>@:P]^SAho`D83]7/5fjaI^g[b9jemmQJ]G[^3BYD_hl/85G;Yl4EmmOAGWcYo5iVDK<3EY
+?0KHmH=?Vf2XV`C2ZV4@c>X5`/c03iHeg61AdAkViFaQm[4JYWXn<:lG87?V_9Yh8lHR7R?kS/G:>J]a
+l_P9G;]i5IN_GLH5/Ij;5boRRUS_EmN^hLJ=6kPU]XO09GRiWMmmnjedN7BL2^`D:BXM:Q784@@40/50
+@3`AX?QF08?>kOjmNkPSg=?G^W0C/;U`oSc>WSV;DbM?h_RahcQbn0P>7cZ4XlN?h?S9XcQdi0]/gk`E
+:nL]`jbAdc4jHBBbXk8`93PM:KjYB0g>@5KDD8b<6hUYFE>aM<iBK5jo2@L>k/La<Ona4dMan?0Q73Ud
+6<N?7/>Y4bMai/`IW1O[O@hk/Cdg1NcXk^j9kGbXLGI?WSbAXBa3k6O?WRVPDjCXKj`BPEbn3XjQZ@P9
+kh[@l>^__lKejmMamNYE7L2MTN0i9P1dF83Xh843f;Mg7gK_fXDMfkMSjiH]f;9i<cI_fHA=FcIRhiKe
+F;ma;MJ^GhGEJeMRcKYEh_lef;Qi_OQnPoSMAVcN_0UKa7cK]fg3[Ydk/GO?GQcLO`27_cPTeW<D9dnL
+`9WCYg7ng3ULo?;;5j0C09KQ<d=H/Md4M6i7YdRAX[nWoSC8dEE95bLPMd@h^8<73P[8kME0KXN4g:J=
+6k5ngCZ/FKdJZeJ/a?:Ubk1dlA8/G[A8O2k6/ZE;/G;52ZaI]A[[ejk5aPdK1AP9^Nd2L[^:13VjcEM1
+CW5cRQCm?OEF`UD2hWVh:/31R_hlhNZ52cQkmRa>WcZ54lN?hnRA8cPTH7A0@8V`fk=[=gK^f25MVGAe
+VcI;j6dB82?<n<Wo=foJQ:d4fmI]f2WPB4S^gK=7;6Lo3Qgl@XK1ahn9L5D0=Mm`EN_RU71ETJ9BZA9[
+N:3bLgB41^71>Ro2i3W/Q:^kc8H7hJSX[7:LG@k`j;YT7If0gQL73lY@U]3J_fnO;0a[mk>8_`o/fbno
+inl8bB>73l_i^A`9=^7LcXWUb`H>/Ci2mSWLK]fB3B;?6ak4m^Xj>>j?0SQ5R_kN:U78DH@2hD07A2M4
+AjAeMS:4ID^[YS7RUPQSfL[9eTk2io;Ubm9U4DQdG8@Cjnh8Z]>WF4kQ58^08Oo>:JOUmocM>N4<cilo
+mk`UUA2ED6=[ZPRG6CHC];95EA^JjSPg`YV@E^2VB57YDHU3CUNiPDN7A8M7Z4SX<Ke4^3`2Qhj:HBgM
+5F54YdD0/Rj?cT/F0J][>XGoJkoSk`PbcRMQ9YK3iG6i39VIa/;eBJP9aoJ3a[5Y@e85K8XDUDjmELSU
+5R72GPF/_b=H61;Z`Xn>S`1R_Q[3g<L2BWAoM5bb220BR][2ofDAgo5gQ1SW8d1Uj2UPb^EZGA[GAjO6
+mG<k5:PYDUCjmDhQEi086bd0jJQH]21T8IQNEkBoiG`/G8HFI0[<52WjkmEO0W::52UBm;JT@4jA8TFU
+FP[T52UBE:ZU@4jA8TFUFP[T52UBE:ZU@4jA8TFUFP[T52UBE8X5o7l1d8DMeiD5G`000019ADi4[T9P
+PP0000Q00@PT00006000008@`=/100001000000000000000000001]000100000=000004000020000
+0000_`000;l0P9a3002`@P<0000000200000P3Cg=DX000200000P82SC4TQ000020000680000<0000
+0@000240000800007P0001P000000000000003T1001H00005@0000`0000400005@0000`000040000
+D@0005SH00000000000003P1001G00000000000000000000000003T1001H0000D00002P0001h0000
+h=L00000000P0<`0>@4005P0000X0000>@4005P00001010000000000000000000000000000000000
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogl00?moogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo003oOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooO`00ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogl00?moogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomo003oOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooO`00ogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogl00?moogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo003oOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomogW_oOmikgW_NNmik
+_GONNkeggW^mMmik_GNmMkeggW^mMmik_GONNkeggW_NNmikgW_oOmikogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooO`00ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOmikgW_NNmik_GNmMkeg_GNLLkegW7>LLiacW7>LLiacW7>LLiacW7>LLiacW7>mMiac
+_GNmMkeg_GONNmikgW_NNomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogl00?moogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOmikgW^mMmik_GNmMiacW7NLLiacNfmkKg]_NfmJJg]_
+FV]JKeY[FV]JJeY[FV]JJeY[FVmJJg]_FV]kKg]_NfmkKiacW7>LLiac_GNmMmik_G_NNmikogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomo003oOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomogW_NNkeg
+_GNLLkegW7>LLg]_NfmkKg]_FV]JJcU[FV/iIcUW>FLiIaQS>FLHHcUW66<iIcUW>FLiIeY[>F]JJeY[
+NfmkKg]_NfnLLiac_GNLLkeg_GONNmikogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooO`00ogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOmikgW_NNmik_GNmMiacW7=kKg]_NfmkKeY[FV/iIcUW66<HIaQS66?gG_MN
+mekgG]INmekGG_MNmekgG_MN66<HHaQS66<iIcUWFV]JJg]_FV]kKg]_W7>LLkeg_GONNkeggW_NNomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogl00?moogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOmikgW^mMkegW7>LLiac
+Ng=kKg]_FV]JJcUW>FLHHaQSn68HHoMNmekFF]IJ]EZfF[EFeUZeE]IJeU[gG_MNn6;gGQQS66<iIcUW
+FV]JJg]_FVmkLg]_W7>LLkeg_GONNmikogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomo003oOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomogW_NNkeg_GNLMkegW7>LLg]_NfmJJeY[>FLiIaQS6FLHHaQSmekgG_MNmekfF_IN
+eU[fF]IJmUkfG_MNmUkgG_MN66?gHQQS66LiIcUWFV]JJg]_NfnLLiacW7>LLkeg_GONNmikogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooO`00
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomogW_NNkeg_G^mMkegW7>LLg]_
+NfmJJeY_FV]JJcUWFV]IJeUWmejfFUABlTWAAK55T46aAM55lTTcC[IJeehiIeU[FV/iIeY[>V]JJeY[
+NfmkKiacW7>mMkeg_GNmMmikgW_oOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogl00?moogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomogW_NNkeg_GNmMkegW7>LLg]_NfmJKg]_Vg=kKkIN4di??Nd`[2R]:8`TSBA[94XT
+:RA[96`T[BA[::``;SWbBIIJFV^KKi]_NfmkKg]_W7>LLkegW7>mMkeggW_NNomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo003oOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOmikgW^mMmik_GNmMkeg
+oW/jJcAF3SV]:<lPDb6E8MHQeR7G8OLU63;f;MD]Lb5b7I@IU1g^88/PBR1[:>ddldgiI]ikgGNmMkeg
+gW^mMmikgW_oOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooO`00ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOmikogoNNomoogmkKm9=[32]85<QeQgF8G<Q<BG_9<hX[BC=:>hXTbGE;MQ1
+4TU_C;9<54V`A:lh[Bb<94XLRbRA@AY[ogooOmikogoNNomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogl00?moogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogoOOcEFRbb^89DM
+mb5c8A0Y[2R<;6/XRba[:8//RbC?;91<<6``L51/TVCCI2mTLVQAK55/LEb`B:d/JR1Z9;99WGOoOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomo003oOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOoUVkCA[87@QeaeC9JdXRbaZ:8//RbR<;8/XS2R;98hhDFP`K4i8S3A[:>hX
+=bkE<C4YUC5<@4mH<6aAK71@[C197:`/EU[oOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooO`00ogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo559::>lPmb5d8LhXJRR;;8/X
+S2b;:8`/RbR<;8/TSCPaL4mHRbR[98/XS2QZ::`/5c8G<_HU<2EZ98`/KDAAJ55`T4b<94XPLD6nNomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogl00?moogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomogW/_?DXPDb7G7NlTJba[:8`/RbR<:8/XS2b;:8`XRbR<;31XL5b;98/XRbR<:8/XS2aZ:8`X
+5cII<[DYRbR;:8/TRbQ^B31`LFB^<4XLc30kKomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo003oOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoognMMnddJbBE8KDQ[2Q[;8/XS2b;:8`/RbR<;8//
+Rba[;8/XKDAAL8``Rba[;8//RbR<;8/XS2aZ:<h/NSIj<^lXRbb;:8`XRbB<=4mPDWB_?8/PRbPJJomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooO`00ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOieg
+[31[9;DQM2F<::d/[BS>;:dX[RR]::d/[BS`834EDQ5c2I5D/U2D2C4E41f]98//JRR;;8/XS2a::54a
+_3Jd;FXXS2R;:8`/RbB;:4i@<WB_@8/PBRCII_moogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogl00?moogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomo_W_==8`T]R5d:Hd/[Bb<::d/S2R<;6//cBPa5KD5]P6f1G@9
+La5AH=54L`fE4KH=m`fe5C4QS2R;;8/XRba[:3PjFC:];6/XS2b;:8`/RbR[94i<<WR`?:`PJbPkJomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomo003oOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooO`hiJbBE8E8U
+JbR;:8/XS2a[:6//S2QB5KH1]@Da4LhPRbR;;6//DFQ=B8XXJbR/:<hPDaWG4OLI<B6]:8/XJbP?;K`j
+42e[:8/XS2R;:8`/JRR:94e<<GC@<8/PRbQlLomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooO`00ogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomodTU:97@UE2U[:8`/RbR<;8/XRc3>7;H5]@D@7H/XRc1[;8`/RbS=:75P
+KeB;98`/RbR;;6X/[BaB8APNeR4@:JdXcRQI=]DeJRR<;8/XS2a[:34]eRWf9M=LDFS_96/TkSCoOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogoOOkikogooOomoogooOkikogooOkikogooOomoogllLcac6fmMMomo
+ogooOomoogooOomoognnNmmoogooOomoogooOomoogoOOm]ZGGOoOomoogooOomoOGLLKaac?7?oOomo
+ogmmMomoogooOkik_g_oOomoggnoOomoogmMMomoogooOmmo_gooOomoogmmMcac?7<KKiikogooOkik
+_gooOomoognNNmmoogooOomoWW_oOomoogooOomoWW_oOomoogooOomoG7?kK]moogooOomoogoOOmmo
+ogooOiikogooOomoogooOomoogooOomoGG<KKaacGG?oOomoogmmMomoogooOgegogooOomoWW_oOomo
+ogooOomoogooOgeg77<KKcacogooOomoognNNomoognNNmmoogooOomoognNNomoogooOomoogooOaa_
+nfjnNomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogl00?moogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoognGGRTT<R5e:JlhRbb;:8`/
+JbQ[;10Ee`4b3H`XJRb;;8/XS2R;:8//cB2AD2mPS2R;:8`XRbR<;6/XJRb]:=HUmbG_:6/X]35I=/hX
+S2R<;4XXU2dh;U4]kR@A;C1//DS_74XT/TWoOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoVFKFFOmoogooOomo
+fV[FEOmoogmDCKikogooOo]ZlTREDIEA5ekoOomoogooOomoogooOomoNF8GG_moogooOomoogooOeeg
+4dUeDA=9F6;oOomoogmnMo94UE5dDAMNogooOkik=4emMmmoggnEDKYZogooOiYVmeWoOmYZE4gNNomo
+ogoKJ[EEogooOomo<dgBA;EEM55HH_moogokKWA=ggoOOiig4dVnNomoogoNNeA=WW_oOomoogooOgEA
+GG?oOomooglgGS=9ME4dCEecogooOomomUVjI_mo>5idDOmoogooOomoogooOomoogoKJ_94]UFEDCQN
+ogooOmmo=4fjI_mo5ejEEOmoogooOgEAG7?oOomoogooOomo_W/CBIEA]UFeEKikogooOmYZeUGoOaa_
+<dVnNomoogooOomoE4fNNomoogooOkikE4fEDKIEE4dKKomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomo003oOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOiegRbc?99HU[2R_?:lhS2b;:8//<AGg0A0IRc2;;8`/RbR<;8/XS2b;:>lTScaAM8`d
+S2R;:8`/RbR<;8/XRbb;:;DY>B[>;:d/Vc[_;:h/[Bab<ETbcBa::8//RRA^C55/4BW>94XTnFKoOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOiYVeUGoOomoogooOo]^M55mMcacE4fNNomoognjJ[EE_gnNNomoogooOomo
+ogooOomoogooOiUVldQeDMMIWW_oOomoogmeDIYVognoOa=9GGOoOomoGG=eDOmoogooOomoogooOcQN
+lTQeDCA=E4goOomoognjJSA=meVA@?]^ogooOomo^VZfEOmoogooOgeg4dUMLomoogooOomoogmeDC=9
+UEGBA3QNogooOomoggmDCKmkogooOomoogmDCEegogooOcac<dfnNomoNF:EDOmoogooOmMIfVXlLi10
+]UGoOomoogooOomoogooOomoVFJfEKik_W_OOomoogooOeecE4dGGWAA_W_oOomoogmdDCA=ME5iI_mo
+ogooOiik=4fNNkikggooOomooglLKa=965jA@;YZogooOomoogoOOeA=WW_oOomoogmmMkYZogoOOiEE
+meWoOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooO`00
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoognbAD/PUBG?:6/XRbS@?;0hS30@4ML1
+kaQ[;8/XS2b;:8`XRbR<;6/XS2S?::`X<6A?E8/TS2b;:8`XRbR<;8/XRbQZ:;DY62Z]:3PfLS59::d/
+FC9B<H`/[Bb;:8/XJb``K;14<25[9>ddgW_oOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoognII]IIogooOomoogokK_94
+M55dDO98_W_oOomofV[bA7AAE4eHG_moogooOomoogooOomoogmiH[IEGG<GGYEEogooOmmo=4fnNomo
+ogoFEIUVogooOeegM57oOomoogooOomoognnNa=9?7=DCMYZogooOomo^VXcCGUV>5ieDKikogooOmYZ
+]EGoOomoogooOaaclTAmMomoogooOomofVYDDCac4dVnNomoogooOmmoE4fNNomoogooOomoE55MLomo
+ognII]IEogooOkik<dWoOomoogogFAMNE4eHH[EEogooOomoogooOomoogooOm]ZdTAeDEA=NF;oOomo
+ogooOgUR3cPKKomoogooOomoUE6IISacE4fjJ_moognnNa=9E4edDKEEogooOomonfhdCGURFF9DCIik
+ogooOomooglcCIikogooOomoogmHHUA=E4gFFIigogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogl00?moogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOaY[BB@c:C8YRbb;:8`/RbR_>=4lUQT@6FX/RbR<;8/XS2b;:8`/RbR<;8`Xcbb;96i4<G2=>8/T
+S2b;:8`/RbR<;8/XS2b;:?L]]BWf=OHeBRQb<CPfJbR];:d/cS2];:/TCURAG30Q3bDY85EFogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoVVKFEOmoogooOomoffZEDOmoggmDCIigogooOkYZ]EGoOmmoogooOomoogooOomo
+ogooOomoF68hG_monfiDCOmoogooOiEANFKoOiik4dUmMomoogmLLgEAogooOomoogooOomoogmIHS=9
+UEGoOomoogooOgUVmeWoOmmoldRNNomoognjJ[IEogooOomoogooOiYV4dVoNomoogooOomoUEDdCEQR
+ogooOomoogoOOeA=_W_oOomoogooOeA=GGOoOomoG7<dCIikoglhG[IEogooOomo65i@??]^GG>EDOmo
+ogooOomoogooOomoognII]IIggooOomoogooOomoGG=DCAMNME6nNomoogooOgAAOGOoOkIEF6;oOomo
+WW]DCKmoggooOomoogooOo]^]UGoOomo<ddlLomoogooOmmoE4emMomoogooOgegdTALLomofVYMLomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo003oOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogm??HdTM2F]:6/XS2b;:8//RbBE4A8]/42^<8`/
+JbB;:8/XS2b;:8`XRbR];:hXRbR;951P<6B;:8/XS2b;:8`XRbR<;8/XJbS=:3T^>38h>V/X>3IA;FXX
+RbR;:8`X[Bb]:8m8<6S_:10Q[BB/;=ikogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoGG=eDA=94dUDCM]ZogooOo]^meWoOomo
+UE6nNomoogokK_=8M55DCOMIogooOomoogooOomoogooOkYZdTAdDC=9?7?oOomoogmnMc=9E4dCBKYV
+ogooOomoOGNEDOmoogooOomoogooOomo_W_BA=YZogooOomoogokK]94ME4CBEURogooOomoff[FEOmo
+ogooOaMJE4fEDK50mUWoOomoogooOo]^/D3OOomoogooOoMI<dgcB3A=meWoOomoognEDEegogooOomo
+F68cBEA=E56NMomoogooOoIIeUWoOcac]EGoOomoogooOomoogooOomonfkbA9EAE4dGG_moogooOgAA
+^V[oOcMNeUGoOomoogneEA=9E4fEDMmoogooOkik=4eDCGEAM56nNomooglLKo98M4ddCAMNogooOomo
+5eYDCO94E4ffEOmoogooOoMIE4edCEA=G7?oOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooO`00ogooOomoogooOomoogooOomoogooOomoogooOomoogooOaY[
+JRPc9A4YJRR<;8/XS2aZ;58E]P6/:8d`d3cA?<lhS2b<;8/XS2b;:8`/[Bb^;8/X[2R<<55`CeB/98/X
+S2b;:8`/RbR<;8/XJbab;I/bNCX`<EPfcBa[:8`/RbR<;8/X[2R>@55`[S0@9NlTBR@eE_moogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoOGNNMgegOGOONomoogooOmmoogooOomoogooOomoognNMgegGGNNNomoogooOomoogooOomo
+ogooOiikGGOoOomoogooOomoogooOaa__W_oOomoogooOomoggooOomoogooOomoogooOomoWW_oOomo
+ogooOomoognNNeeg_gooOomoogooOomoggooOomoognnNeegOWMmMkmoogooOomoogooOkikogooOomo
+ognNNgegWGMmMiigogooOomo_W_oOomoogooOomoOGLmLomoogooOomoognoOomoogooOmmoogooOomo
+ogooOomoogooOomoWW]mMgegWW_oOomoognNNomoogooOiikogooOomo_W]mMgegogooOomoogooOkik
+OGMmMgigogooOomoognMMgegWW_oOomoogooOiikGGNNNgegWW_oOomoogooOgegOGOoOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogl00?moogooOomo
+ogooOomoogooOomoogooOomoogooOomoognAAF`PE2V<:8//RbR<:6/X[BRf0A0IJRb;:6/X[C2_>=4l
+[cR]<8/XRbQ[::h/SBb;:8/XRbA]?35dCU2;98/XS2b;:8`XRbR<;6/X[2PH;Y/jeCDF=V/XS2b;:8`X
+RbR<;8/TKC``K:hhcbP@9H`TcCCONomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomo003oOomoogooOomoogooOomoogooOomoogooOomoogooOkikRb`b:A4Y
+Rbb;:8`/RbR;<34E]PF;:8`/RbR<;8/XRbR<;:ldd3Sa?:lh[C2^;:d/RbR<:8/X[2A]@55dCeB/:8/T
+S2b;:8`/RbR<;6XXU36l>[/n]35[;8/XS2b;:8`/RbR[96i8DFb;;<h`l2`?:DXTnFKoOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooO`00ogooOomoogooOomo
+ogooOomoogooOomoogooOomoogmfFV/TE2V];6/XS2R;:8`/JbRE1C4AJbb;:8`XRbR<;8/XRbQ[:8`X
+S2c?==0hlCb_>:hdS2b;:6/TRb1/>55`;f2<<8/TS2R;:8`XRbQ[:>hXNCJJ>U4aBRR<:8/XS2b;:8`X
+RbA@I4mDRbB<:<l`42U[8955ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogl00?moogooOomoogooOomoogooOomoogooOomoogooOomoL46^93<]RbR<;8/X
+S2b;;<hT]P7>86//S2b;:8`/RbR<;8/XS2b;:8`XRbR/;:ldccB`?=50/42_?8dd[2R<<51P<6a^B8/X
+ZbB;:8`/RbR<;8/XS2b<:8`/RbR<;8/XS2b;86i8<G2=>8/TS2b];?0/[RC=<=moogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo003oOomoogooOomoogooOomo
+ogooOomoogooOomoogoOOj``4RW?:8/XRbR<;8/XJbc_6;H1RbB;;8/XS2b;:8`XRbR<:8/XRbR;98/X
+RbB^<8/TRbB;9:d/[SB`@8m0[d2>>71H<Fa@H6e0S2b;98`XJbS^;>h/RbR;:8`/RbR;98/TKT@aM6i<
+RbB<:8/TSBb`=10YBR@kJomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooO`00ogooOomoogooOomoogooOomoogooOomoogooOomo6V^<:3<Y[Rb;:8`/RbR<;6X/
+DQEd2H//RbR/:8/TRbB;9:`XRbR<;8``SCA/>8i0KdB>A6e4KTQ]A6i8KTQ_C6m@TEQ`F75LDFQBL51T
+KT1Z978a^ckL?[@aRbb;:8`/KCa`G35`KTb;98`/S2b=>8m4/DS`96/T=EKoOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogl00?moogooOomoogooOomoogooOomo
+ogooOomoogooOgIJK20c:H/XS2b;:8`XRbR;;7<5L`UZ;8``K3A]A4i<KeQ?G51T<6QAK31/DF``K55/
+<6Q@K31XD6P_H51T<6AAK31/<G0`K55/<6PbM4i<RR@G=]`n^cZJ?X/TK3Q@I55`D6Q_E6hlSdQ_B91<
+SdR_@8dhkbA[8955ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomo003oOomoogooOomoogooOomoogooOomoogooOomoogoCCJhT4RV;;8/XRbR;98`/S3Cb=;98
+L6AAJ55/D6Q@J4mLKeQ>C6i8KD2=?6`dSSR>?8`/RbR<;8`dKTA?F55XDFaAI51LDF`aL55`<6Q^A6XT
+TcGL?_dnmCF;96i8DWQAJ75TL62AF8m4SSR<;8`XRbR>><lX[B@>>OmoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooO`00ogooOomoogooOomoogooOomoogooOomo
+ogooOomoL47?914]JRB;:8d`[dBAE75PLEbAE4i<KD1/=8``RbR;:8/TRbB;98/TRbB;98`/SCB;;6i4
+CeaAK51XL5a^B8`dK3Q@H31/CeQ]?8`/RbB;:6/X<C5A<H`/JbB=?4mP<G1AJ99LLEaaH71DT4R==8/X
+K3C?;<dP[32nNomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo=E8kJomoogooOomo
+ogooOomoogooOomoogooOomoogooOkik54jMMomoogooOomoogooOmURG6ooOomoogooOomoogooOc][
+^6;oOomoogooOomoogooOomoogooOomooglEDQY[ogooOomoogooOomoogooOomoogooOomo6V^GG_mo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogmLKgIJ
+/TEa@I5155;iI_moogooOomoogooOomoogooOomoogooOomo^68JJomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOgIJFfooOomoogooOomoogooOomoogooOomoogooOoYV
+>f_oOomoogooOomoogooOomoogooOomoogooOmUR5E:AAI55dTUgFWacogooOomoogooOomoogooOomo
+ogooOomoognnNoYVEUKcCI55/TGCBEIJnFKOOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogl00?moogooOomoogooOomoogooOomoogooOomoogooO`hi4RW_::dddDCCD95@SdA/>7<AL`V;:8/T
+[2R;:8`/RbR<;8/XS2b;::`XRbB>>71DDFaAJ6mDKCb<<8/TZb1]?55`D6B=>8/T[2R;:8`/RbR<;4XX
+JRR;:8`/RbB<:6e4DG1aH=50dTRbD91<dUCAA;10[Rc_98/XWGOoOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogmLLbTPcC3oOomoogooOomoogooOomoogooOomoogooOomoogoCB@LDEUKoOomo
+ogooOomoO7<Z80heogooOomoogooOomoogl>=DXTWGOoOomoogooOomoogooOomoogooOi951aCCCOmo
+ogooOomoogooOomoogooOomoogooOnd`BRBMMomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoognMMi95JbP872TP:B0Y80PL:R3^==URogooOomoogooOomoogooOomo
+ognmMdXTkSCoOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo>f/9750m
+ogooOomoogooOomoogooOomoogooOomoWGM:9>hdogooOomoogooOomoogooOomoogooOkQNkS@Y80PL
+:B0980TL21a[:951G7?oOomoogooOomoogooOomoognnNoA=[C0980TL2Aa:92TP:B0872TPcC0eE]mo
+ogooOomoogooOomoogooOomoogooOomoogooOomo003oOomoogooOomoogooOomoogooOomoogooOomo
+ogl>=O0TlScBB=10S32;:8/TJb`a3I@9JbR<;8/XS2R;:8`/RbR<:8/XRbA/<6mDDFAaG6e0S2b;98/T
+RbB;96e4<GA>D8/XRbB<;8/XS2R;:8//RbSf=CPf<35Z:8`XRbR;96`d<6a?F<h`dT3@>8`/[ccBA?90
+cbB;:5]_ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogl_>@TLMe[oOomoogooOomo
+ogooOomoogooOomoogooOgacJbR;:9egogooOomoogooOe]_BR@>=OmoogooOomoogooOomo3cU:97ac
+ogooOomoogooOomoogooOomo/TD860heWGOoOomoogooOomoogooOomoogooOomoogo^=6XTOG?oOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOaY[S2P87:`/m4gHHS]_
+nVIFFRli:B0Y81A>ogooOomoogooOomoogooOomoWGM[90heogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOaY[:B1@?OmoogooOomoogooOomoogooOomoogooOgacJbS=<?mo
+ogooOomoogooOomoogooOmikTTD872TP3SDeD[QNnVJGG]=9[2`876XTUekoOomoogooOomoogooOea_
+[2`876/XTD5fFQY[FfmLKoYVMeYa@F/X21`_>KikogooOomoogooOomoogooOomoogooOomoogooO`00
+ogooOomoogooOomoogooOomoogooOomoogooOomocC3@>=98[SB;:8/XRbR<;6//41fe0J`XRbb<;8/X
+S2b;:8`/RbB<;6m<LVa@G8m4SCB;98/XS2b;::/TKD1BN6i8ZbB;:8`/RbR<;8/XS2a[:>h/Vc[m?W8a
+JbR;:8`/RbR[96`hDWA]A:d/dTS@?8XT[SCBA?50Jb@kKomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomo6V/Y8>hdogooOomoogooOomoogooOomoogooOomoogoCB@PL5E;oOomoogooOomo
+ogmKKf/T3SGoOomoogooOomoogooO`liJbQlLomoogooOomoogooOomoogocC@PLkSBMMomoogooOomo
+ogooOomoogooOomoogooOomokSA[:7acogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomo>fmZ92TPdTVnNomoogooOomoogooOkQN[2`87?A=ogooOomoogooOomoogooOieg
+RbP>=OmoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomooglJJbXPD3goOomo
+ogooOomoogooOomoogooOomoognMMf/XkSCoOomoogooOomoogooOomoogm`@@PLcC2hG_moogooOomo
+ogooOkikm4e:92TPUekoOomoogooOomogW_=<2TP/TFMMomoogooOomoogooOomoogmLLe0m21aa@Omo
+ogooOomoogooOomoogooOomoogooOomoogl00?moogooOomoogooOomoogooOomoogooOomoogoNNld`
+/3b_>6XTS2R;:8`/RbR;;:dPeP7>78//RbR<;8/XRbR;98dhLEaaI6e0RbR<<8dhRbR<;8/XRbA/=35d
+CTb;98/XS2b;:8`XRbR<;8/XJRQb<K`n^cZd<DXXS2b;:8`XRbR;94i<DFa[::d`dTR^=6/X[cSAA6/X
+6V_oOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoL44879MNogooOomoogooOomo
+ogooOomoogooOiegJRB<;9egogooOomoogooOomoG6m:90heogooOomoogooOomoogl_>DXTOG?oOomo
+ogooOomoogooOaA>21c=<9ecogooOomoogooOomoogooOomoogooOomoogooOnhdJbBMMomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoognnNj`/:B0DD_moogooOomoogooOomo
+ogooOc]_S2`97;QNogooOomoogooOomoognMMf/T3SGoOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomo6V/Y850mogooOomoogooOomoogooOomoogooOomoO7=[:<d`ogooOomo
+ogooOomoogooOo==21c]<7acogooOomoogooOomoogooOomoMeXY88/XogooOomoogooOcEB1aRA@Omo
+ogooOomoogooOomoogooOomoogoNNnd`:B0kJomoogooOomoogooOomoogooOomoogooOomo003oOomo
+ogooOomoogooOomoogooOomoogooOomoogo]=18]l2R;;8/XS2b;:8`/RbR<;9@9DQEZ;8`/RbR<:8/X
+SdQbI8m@Rbb[:8/XSCB=>8`/RbR<:8/XD6A@H8/XRbR<;8/XS2b;:8`/RbR<;6/X>3Yj>[`nmSF;;8/X
+S2b;:8`/RbR<;35/KTR:8<lhdTB];:lhdD1[:5acogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOaY[BRC=<9QNUejhGYMN^5jGG[QNUejhGYMN^5ia@@TP55;oOomoogooOomoogooOe]_
+BR@>=OmoogooOomoogooOomo3cU[:7ecogooOomoogooOomoEEH87<d`O7?oOomoogooOomoogooOomo
+ogooOomoogooOomoogo^=8/XOG?oOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomom4d97951ogooOomoogooOomoogooOomoogooOmURBRC=<=moogooOomoogooOomoWGN;:0he
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOaY[:RA`?OmoogooOomo
+ogooOomoogooOomoogooOiegJbS^=?moogooOomoogooOomoG6m:98/XG7?oOomoogooOomoogooOomo
+ogooOomo^5jHG_moogooOomoognhGZ`/WGOoOomoogooOomoogooOomoogooOomooglDCPPLMU[oOomo
+ogooOomoogooOomoogooOomoogooO`00ogooOomoogooOomoogooOomoogooOomoogooOomo3SWa938Y
+cRB/:6/XRbR;:8`/JR`@6KH5[2Q[:8/XRbRAD75LSCb;98/XRbR;:8``SSR;:8`XRbA^B35`S32;98`/
+RbR<:8/XS2b;:8`XBRPa<GXjmSFJ>UPfS2R;:8/XS2b;:8`XRbA?F4mLRbB;9=94/43@><lXRbQlLomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOe0mBRA:80TL21`870PL21`870PL
+21`872TPBRB<;;ikogooOomoogooOomoogmLKdXT3cWoOomoogooOomoogooObliBRAmLomoogooOomo
+ogmFEPTLkSBnNomoogooOomoogooOomoogooOomoogooOomoogooOomokSAZ99egogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoognMMh`/JRAmLomoogooOomoogooOomoogooOomo
+ogooOg1121afF_moogooOomoogooOiegRbR<;>hd3SD>=@likS@?>BliddVhG]moogooOomoogooOomo
+ogooOomoogooOomooglJJbTPL47oOomoogooOomoogooOomoogooOomoogmlLf/XcC3oOomoogooOomo
+ogooOk9521`DD_moogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomo=E8867IJogooOomoogooOomoogooOomoogooOomoogl00?moogooOomo
+ogooOomoogooOomoogooOomoogooOblml2Ca::dXkbC>::dX[2b;:8//S2SF2C4IJRb<;;9@TEB<<8/T
+S2b;:8`/RbR==8dhS2R;:8`/D6Q_E8/TS2b;:8`/RbR<;8/XS2a[:8`/FC[E=ODeFCXh=Pl]JbR<;8/X
+S2b;::/TKD1AK8``SCB?B=9<kbS^9:`/_W_oOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomooglkJdXTS2`DDUIF=EIFESEFEUHeEUIFEUK^=2TP=E;oOomoogooOomoogooOomoFfm[90he
+ogooOomoogooOomoogl_>F/X3SD_>@li;cT?>BliJRA[92liV5jMMomoogooOomoogooOomoogooOomo
+ogooOomoogooO`heJbRMMomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+^6887955ogooOomoogooOomoogooOomoogooOomoogoiIPTLLD7oOomoogooOomoognMMj`/JbR<:8/X
+S2b;:8`/JbQ:90PL2B3=<?UVogooOomoogooOomoogooOomoogooOomo6V/Z850mogooOomoogooOomo
+ogooOomoogooOomoWGM[:>hdogooOomoogooOomoggo=<6/XWGOoOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoognMMld`:R@JJomoogooOomo
+ogooOomoogooOomoogooOomo003oOomoogooOomoogooOomoogooOomoogooOomoognbBJhP<RUZ:8`X
+[BS>:<hTcRR]:8`/41WF2JdX/Db@C8`/RbB<;8/XS2R;:8`XS32>>8/XRbA]@35`K32;:8/XS2R;:8`/
+RbR<:8/XJRRC<I/jcBai>_HemC5c;FXXRbR;:8/XS2b<;6i4<6a^A6``SC3b@14Y[B3^=?moogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogm`@@TLfF;oOomoogooOomoogooOkik
+JbR/;;ikogooOomoogooOomoogooOea_BR@>=OmoogooOomoogooOomo;cU:98`XRbR;:8/XS2R;::`/
+RbQ:90PLRbQEE_moogooOomoogooOomoogooOomoogooOomoG6n<:4XTfF;oOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOo==21aFE_moogooOomoogooOomoogooOomoogooOomo
+WGN<::`/ogooOomoogooOomoWGM[:>hdWGNnNieg_GNMMiegFfnhHW0m:R0Y8;QRogooOomoogooOomo
+ogooOomoogooOaY[:B1a@OmoogooOomoogooOomoogooOomoogooOgacJbS=<?moogooOomoogooOea_
+BR0_?OmoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOmikWGLJIcEB[2`97751ogooOomoogooOomoogooOomoogooOomoogooO`00ogooOomoogooOomo
+ogooOomoogooOomoogooOomo=EJ=95@Y[2b;:8`/RbR/;:dXcRS>:<hX]@fg7M54[Bb<::`/S2R<;8/X
+S2b;:8d`SCB<;8/TD5a?G:/XRbR<;8/XS2b;:8`/RbQZ:10]g3h`;Nh/g3kE=C4a63I/<8ddSCB>>8dh
+SCA]?55`K3R;98`/ld0b:H`PD47oOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomo>V]:9<d`ogooOomoogooOomoognbA@PL=E;oOomoogooOomoogooOomoogmKKdXT3SGoOomo
+ogooOomoogooO`liJbPkJkik_WNnNkik_W^mMiegnFKCBDXT:B0DD_moogooOomoogooOomoogooOomo
+ogooObli:R1:9:`/WGOoOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoognbA@TL
+fF;oOomoogooOomoogooOomoogooOomoogooOomocC2<;9egogooOomoogooOiegRbP>=OmoogooOomo
+ogooOomoogooOgIJBRB;:;egogooOomoogooOomoogooOomooglJJbXTL3goOomoogooOomoogooOomo
+ogooOomoognMMf/XkSCoOomoogooOomoogoiIRTP/TGoOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogmKKgMJ55:A@E0mkSC=<6/T:B0876/TddWoOomoogooOomoogooOomo
+ogooOomoogooOomoogl00?moogooOomoogooOomoogooOomoogooOomoogooOoUVBb1D:JdXRbb;:8`X
+RbR;;6/XRbQ[:?4hea6D6J`XcRb^:<hX[RS>;:dX[BR^;:ldSBR]<31/SdB<9:d/S2R];8`XSBb<;6`/
+kbbl>]DeBc2C=Mdj]CF^=3TfccA/<8``RbR;:8/TS3@`K8dhRbB<;?8h<RU:81ABogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoLD4877IJogooOomoogooOea_JRB<;=ik
+ogooOomoogooOomoogooOomoG6m:90liogooOomoogooOomoogl_>DXTWGOoOomoogooOomoogooOomo
+oglJJf/XBR@kJomoogooOomoogooOomoogooOomoddT87;95558972liogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoTDD98=URogooOomoogooOomoogooOomoogooOomoogooOnhd
+RbRnMomoogooOomoognMMf/X3SGoOomoogooOomoogooOomoogooOk9521`eD_moogooOomoogooOomo
+ogooOomo6V/Y8711ogooOomoogooOomoogooOomoogooOomoO7=[:<d`ogooOomoogooOomo6V/97;95
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogoiIRli:B0870PL:B1:9:`/
+cC0_>K95MUYLKomoogooOomoogooOomoogooOomoogooOomoogooOomo003oOomoogooOomoogooOomo
+ogooOomoogooOomoognMMj`/<RD@;F/XS2b;:8`/RbR<;8/XccSBB?0Xma5c8F//Rbb<::`/S2R];8`X
+[Rb_=:dXSSaAL8dd[Bb];:d/[Bb];8`/K2`a<K`nmSF<;6//>3ZK>[@eBBSf<G<]JbR;:8`/RbR/:6dh
+DG1/=8`XRb`c>C8UJRCiI_moogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOc]_:R3]<=moogooOomoognbB@PLEUKoOomoogooOomoogooOomoogooOe]_Jb@>=OmoogooOomo
+ogooOomo3cU[:7acogooOomoogooOomoogooOomoogleEPPLm4goOomoogooOomoogooOomoognhHPTP
+cC2nNomo;cT971A>ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOaA>21bGG_mo
+ogooOomoogooOomoogooOomoogooOomo_W^;:<d`ogooOomoogooOomoWGN;:0heogooOomoogooOomo
+ogooOomooglkKbTPL47oOomoogooOomoogooOomoogooOaY[:R1@?OmoogooOomoogooOomoogooOomo
+ogooOiegJbS^=?moogooOomoogooOea_BRA@?OmoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOoUVBR@982li55;IHS][WGNnNomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooO`00ogooOomoogooOomoogooOomoogooOomoogooOomoogl^>O0T<bF;:8/XS2b;:8`X
+RbR]<=94[SAZ:>lTmaFe8J`XJba[:8/XRbR;:8/X[SB;96i8<6R;;8/XRbR;:8/XBRQ[:78]g3[E<F/X
+BR@?;CPf>3Ib<DTX42dh<X/XRbR;:8`/RbA^A31XS2b;98`/=3D@:H/X_W_oOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOi5121afF_moogooOgacBRB/;;ikogooOomo
+ogooOomoogooOomoogmLKdXT3SGoOomoogooOomoogooObliBRAmLomoogooOomoogooOomoogooOomo
+>f/Z850mogooOomoogooOomoogooOgacJbQ:9?UVogooOiegRbPY8=URogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoognGGPTL/TGoOomoogooOomoogooOomoogooOomoogooOoUV:B1@?Omo
+ogooOomoogooOiegJb@>=OmoogooOomoogooOomoogooOomoO7=Z90heogooOomoogooOomoogooOomo
+oglJJbTPLD7oOomoogooOomoogooOomoogooOomoogmlLf/XcC3oOomoogooOomoogoNNj`/[2cNNomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoggo^=2TPEUKoOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogl00?moogooOomoogooOomoogooOomo
+ogooOomoogooOomo=EI/87DY[BR<;8/XS2b;:8`XdD3A@8/XS2a[;<hXeR4H9S4YS2aZ:8//RbR<;:h`
+[2Q>D51TRbR<;6/XJbQ[:30a>3Jk>U4aJbb;:6/XeCGE=ALfDS5Z:8`/5c9B;FXXS2b;::/TCU1@I8/X
+Rbb]:9HISB1@@OmoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+oglkKdXTcC3oOomoognbA@TLEUKoOomoogooOomoogooOomoogooOomoFfm:90heogooOomoogooOomo
+ogl?>F/XO7?oOomoogooOomoogooOomoogooOe]_:B1@?OmoogooOomoogooOomoogl>=@TL=E;oOomo
+ogooOoUV:B2/;9egogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoWGM[:<d`gW_oOomo
+ogooOomoogooOomoogooOomoognbB@PLMe[oOomoogooOomoognMMh/X3SGoOomoogooOomoogooOomo
+ogooOc][:B1@?OmoogooOomoogooOomoogooOomo6V/Z8751ogooOomoogooOomoogooOomoogooOomo
+WGM[:>hdogooOomoogooOomoognBA@TLfFKoOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOgacBR@?>OmoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomo003oOomoogooOomoogooOomoogooOomoogooOomoogooOe]_JbPc9A4YJRR<:8/XRbR=<?=8
+SC2;:8/XS2QZ:8`/DRDh:_LYLRg=:8/XJRR=<6/TCU@_G6XXJbS=;54]>3JK=_HecBQZ:6/XRbR]:7Xj
+kRaH=Pl]JbQZ:30]>2j/;6/XS2R;:51XCTb;96X/4AfE0DXTMU[oOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogma@@PLEUKoOea_BRB/;=mkogooOomoogooOomo
+ogooOomoogooOea_BR@?>OmoogooOomoogooOomo;cU:97ecogooOomoogooOomoogooOomoogmFEPPL
+/TGoOomoogooOomoogooOm=921a@?OmoogooOomoogooOaA>21Q@?OmoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoTD4873EFogooOomoogooOomoogooOomoogooOc][:R2/;;ikogooOomo
+ogooOomoWGM[:0heogooOomoogooOomoogooOomoogoCB@PLldgoOomoogooOomoogooOomoogooOaY[
+:B1a@OmoogooOomoogooOomoogooOomoogooOgacJbS=<?moogooOomoogooOomonFHY80heogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomooglkKdXT;cWoOomoogooOomoogooOomoogooOomo
+ogmgF[QNogooOomoogooOomoogooOomoogooOomoogooO`00ogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOblmcbAe9J`/RbR<;8/Xd3cA@8`XRbR<;8/XS2b;:6//[BQc;APZFBhG;]D]U2fC:K5@
+TFCE;CPfNSIj>]Da3beZ:8//RbR<;4XXeCGf=Jd/FCK^;6/XS2aZ:?Ha]2e[;8/TSCPaL8dhRbB<<9D9
+<QF;;;ikogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+G6m:9<d`ogoCB@PLMU[oOomoogooOomoogooOomoogooOomoogmKKf/T3SGoOomoogooOomoogooO`li
+JbQlLomoogooOomoogooOomoogooOiegcC0Y8?YVogooOomoogooOomo^5hY8:`/_W_oOomoogooOomo
+ogooOblm21`eD_moogooOomoogooOomoogooOomoogooOomoogooOomoogooOe]_JbQZ91Y[ogooOomo
+ogooOomoogooOomoWGO=<0TPMU[oOomoogooOomoogooOiegRbP>=OmoogooOomoogooOomoogooOaY[
+JbQ:95acogooOomoogooOomoogooOomooglJJbXPL47oOomoogooOomoogooOomoogooOomoognMMf/X
+kSCoOomoogooOomoogooOomoL3d97==9ogooOomoogooOomoogooOomoognnNg51^6;oOomoogooOomo
+gg^/;6/X>f_oOomoogooOomoogooOomoogooOc]_21`?>OmoogooOomoogooOomoogooOomoogooOomo
+ogl00?moogooOomoogooOomoogooOomoogooOomoogooOomoognhHTXPMBG`98//RbR<;=54[cQ[98`X
+RbR<;8/XS2R;:8//JRR<:>hXLRfe;AL^>2XdCG5XmS6C;C0]S2QZ:6XXS2b;:8`XJbS=;7TfkRc^:5Tf
+S2R;:8/XRbb<:1P^DBUZ94iDD6B;:6X/kaRf1F/P/TWoOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoTDDY8;95RbS=<=ikogooOomoogooOomoogooOomo
+ogooOomoG6m:90heogooOomoogooOomoogl_>DXT_W_oOomoogooOomoogooOomonFK^=0PLLD7oOomo
+ogooOomoogmlLh/X:B3iI_moogooOomoogooOomoogmlLh`/:B3iI_moogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOeEF2B1[:;QRogooOomoogooOomoogojIZ`/21bAAOmoogooOomoogooOomo
+ognMMfXT3cWoOomoogooOomoogooOomoUej<;0PL55;oOomoogooOomoogooOomoogooOomoFfl97951
+ogooOomoogooOomoogooOomoogooOomoO7=[:<d`ogooOomoogooOomoogooOieg[2`97951WGOoOomo
+ogooOomoogooOea_kC076==9ogooOomoogooOomo=E887:d/^6;oOomoogooOomoogooOomo6V_=;0TP
+^5koOomoogooOomoogooOomoogooOomoogooOomo003oOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogo]=<lPUBF<:8/XS2ccB8d`RbR;:8`/RbR<;8/XS2b;:8`/RbR;;6XXJbb<:<hXKCaAL6/`
+JbQ[:8//RbR<;8/XS2b;:6//eC7f=BTXLS4G=X//RbR<;8/XJbc>:3PZ<Rd`M4a4RbS_7=L14Ae[;7ac
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOe]_
+JbQ:94XTEUKoOomoogooOomoogooOomoogooOomoogooOe]_BR@>=OmoogooOomoogooOomo3SU[:1AB
+MUYFEWIJEUIfFSEFm4d_>DXT21a@?KikogooOomoogooOmik;cT873EBogooOomoogooOomoogooOomo
+ognhHRTP[2bMMomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOaABBR@Y850mMUXkKgac
+>fnGFW51:R0Y8995ogooOomoogooOomoogooOomoWGN<:<d`MUYFEWIJEUIgFUEFldg^=2XP:B3CBOmo
+ogooOomooglkKeIFMeYfFWMJMUZGF_==JbP>=GMJMUYgFWIJMeYfFYMNgW_oOomoogooOgegJbC^=?mo
+ogooOomoogooOomoogooOgackC0978`XddVGGS]_G7=LLoUVlde[:0TLTDGoOomoogooOomoogooOomo
+ddTY82XP3SDDDYQN6VOiI]UR=E9@?BTP:B0DD_moogooOomoogooOomoogooOomoogooOomoogooO`00
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoMeY:97@Q4BEZ::d`dTB<;8/XS2b;:8`X
+RbR<;8/XS2R;:8`/RbR<:8/X[Bb^:8``<6a^A8/TS2R;:8`/RbR<:8/XJbS_;7XfcBQ::;@]eC5Z:8`/
+RbR<:8/XJbS=8==HLV2D6G<=]PEB6DXTTDGoOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOi5121c=<=moogooOomoogooOomoogooOomoogooOomo
+ogmLL`PLkSCoOomoogooOomoogooObli21`970PL2A`870PL21`970PLBRC=<5IFogooOomoogooOomo
+ogmFEPHDD3goOomoogooOomoogooOomoogooOomoogoCB@LHLD7oOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOkQRkS@970TL:B1:92TP2A`87<d`Ue[oOomoogooOomoogooOomoogooOkik
+RbPY80PL21`870TL21`870PLBR@>=KQNogooOomoogooOomocC0760PL2A`870PL21`Y84XP:R0870TL
+21`870PL21`759MNogooOomoogmlLdXT[2coOomoogooOomoogooOomoogooOmikddV;:0PL2A`Y84XT
+BR0Y80PL[2aFE_moogooOomoogooOomoogooOomo^68>>DXT21`870TL2B0870PL:R0_>MQRogooOomo
+ogooOomoogooOomoogooOomoogooOomoogl00?moogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomo3SW>99HQ[BR<<?=8S2b<;8/XS2b;:8`/RbR<;8/XS2b;:8`/RbR<;8`Xkbb<96mHD62<:8/X
+S2b;:8`/RbR<;8/XFCIb<F//JbPH<U8]Jbb;:8`/RbR<;8/TKD0@M<lh41Ta7C4QcRQ[:9egogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogmmLld`
+^6;oOomoogooOomoogooOomoogooOomoogooOomoogmFE]QRogooOomoogooOomoogmKKeIJEUIgFWIJ
+MeYFEWMJMe[IHU]_ogooOomoogooOomoogooOomo>f^bBIegogooOomoogooOomoogooOomoogooOomo
+ogoCBMURogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomonFKcCG51;cea@O==
+fFKOOomoogooOomoogooOomoogooOomoogooOaY[EUIfFUIFMeYfFWIJMe[IHUa_ogooOomoogooOomo
+ogooOc][EUIgFWIJMeYFEWMJMUYgFUIFMeYfFWMJEUIgFUIFUejnNomoogooOomoogmFE[QRogooOomo
+ogooOomoogooOomoogooOomoWGNGG[99L44_>E0m/TFGG[ikogooOomoogooOomoogooOomoogooOomo
+oglkKiMN54kdCO===EJhGWacogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo003oOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOaY[:BAC8G<QS33BA:d`JbR<:8/XS2b;:8`X
+RbR<;8/XS2R;:8`/RbR<:<hX[BQ/=35dKD2;98/XS2R;:8`/BRRe<ALbRbQ[::d/>38?;FXXS2R;:8`/
+RbB<=35`KeAZ98`Xkb@@:BTP=EKoOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooO`00ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOo==BR2f8C4UdDR^=8/XRbR<;8/XS2b;:8`/RbR<;8/XS2b;:8`/RbS?:<hXRbA>D55`S32;:8/X
+S2aZ:54aNCK=;6/XRb`?;ETf[2R<;8/XS2b;98`d<6a@H8/XcBS_934UJb@?>OmoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogl00?moogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogoOO`hiSB3G7A<i/42;:8`/RbR<:8/XS2b;:8`X
+RbR<;8/XS2R;:8//[BS_:8/XS2P_H51XS2b;94XX3bej<Q0]BRR<:6XXTbgF;F/XRbR<:8/PKCP`K51P
+JbS>9>hT42F/98/XG7?oOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomo003oOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogmlLh//kb3h8A<mS32;:8`/RbR<;8/XS2b;:8`/RbR<;8/XS2b;::`/kbB];8/XS2a@I55`C3`?:GT^
+DReZ:8`/RbR;;?L]LReZ9:/TS2a_D35dCeR<:>hTcRS_:<hTBRBhG_moogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooO`00ogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogoiITXX41gh8O0`Jbb;:8`/RbR<:8/XS2b;:8`X
+RbR<;8/XS2R;:>lT[BB;;8/TS2`^E11dm5`c@FXXRbB;98/TcBAI:/dXK3A>B55/<6a]A:`TcRB]:>lX
+cR@Z93EBogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogl00?moogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ognhHTXX427h8NlXJbb;:8`/RbR<;8/XS2b;:8`/RbR<;8/XS2c=:10URbR;;6XXLRVg?E1P471AK4mL
+Ke1=C;5@leQ@I35`DFa>C:d`cBC>:8`X3bW>92XTldgoOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo003oOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoognhHTXXkb3h7A4UJba[:8`/RbR<:8/XS2b;:8`X
+RbR<;6/XS2S_98`XRbSE;CP^3bUZ98`dCTQ?G2mPD6BBH51PCTa]?8`/[BR]::`/S2P@9JdT:RCdCOmo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooO`00ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogojIX//[B3G8I@QcRQZ;8//RbR<;8/XS2b;:8`/RbR;;4XXkbQc:CPbeBf];6XXS2b;9:`TRbB;:>lX
+>2Z/98`X[BS>;8d/S2c=910YS2A:95IFogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogl00?moogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogmlL`hiBR1c8MHMLb7>98`/JRQ[;6XXJbaZ:8/X
+cRQc;OLY62h@:F//JbR<:8/XS2R;:8/XJRSF:G<YS32=;8d/JbR]:>lTkbA:8:``fF;oOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomo003oOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOoAABRR]99@Qmb6e8G<U<BEB:G8Y]2WF:AL^]2T?;LhTkRR;:8`/RbR<;8`/SC1/<34]mbF]<6//
+S2b/:>lXkbB]94XTLD6MMomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooO`00ogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOc][3STY98`PDRFD8KDQU26e:G<Y<BV^:8`/
+S2R];?0TcRb<;:d`SC2=<6``[S3G9@lYJRS=:>lT42F]94XP[32hG_moogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogl00?moogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomo^5h?>BTTJbC>9>lXcRC>::dX[Bb<::d/S2b];?0XcRb;;8//JRS=:=HQU2G>910YkbB=94XP
+cC0eE]moogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomo003oOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogoIHU11Rba:88`T[B3_9>lTkbC>9>hT
+cRC_934Q42D@8G<Q]AeB9JdTS2A:86/X3cUfF[ikogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooO`00
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOgacMeYa@Ld`JRA[96/PS2B<8:dTS2B=9:dPcR3>76`TBRB/<50m=EHkKomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogl00?moogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogoNNc]_UehDDY55LD4_?Bli
+;ce`@G55ldefFQY[WGOoOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo003oOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooO`00ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogl00?moogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomo003oOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooO`00ogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogl00?moogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo003oOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooO`00ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogl00?moogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomo003oOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooO`00ogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomoogooOomo
+ogl00280000<0000ooooodH0002H0000S00004E=AR/T@00030000000000Z@000900001P00000080o
+000000000000080o00000000000Z@000900001P00000080o000000000000080o00000000000V@000
+400000@000000000240211P0000<00000Q30f`000003000@=40200`000000000C00006@000000000
+000003P1001G000000000000000i0@00F00002T0ZP00000000000000P3l0000000000000P3l00000
+0000000000000000000000000000000000000280000<0000ooooodH0000L0000400004E=AR/2@000
+30000000000>000050000000000@00005000
+\>"], "Graphics",
+      ImageSize->{211, 59},
+      ImageMargins->0,
+      ImageRegion->{{0., 1.}, {0., 1.}},ExpressionUUID->
+      "50dba8d8-1ff4-47d4-a36a-6c0174763384"]], "Graphic",ExpressionUUID->
+     "bec8c1cd-37a2-448f-9531-f4ca83b7dfdd"], Cell[
+    "POLARISSCATTERDISPLAY` SYMBOL", "Subsubsection",ExpressionUUID->
+     "6eba85b2-df4c-49f1-818c-55f8cb2301df"], Cell[TextData[Cell[BoxData[
+     ActionMenuBox[
+      FrameBox["\<\"URL \[RightGuillemet]\"\>",
+       StripOnInput->False], {"\<\"Go to wolfram URL\"\>":>FrontEndExecute[{
+        NotebookLocate[{
+          URL[
+          "http://reference.wolfram.com/mathematica/guide/Mathematica.html"], 
+          None}]}], "\<\"Go to AiryOptics  URL\"\>":>FrontEndExecute[{
+        NotebookLocate[{
+          URL["http://www.airyoptics.com"], None}]}]},
+      Appearance->None,
+      MenuAppearance->Automatic]],
+     LineSpacing->{1.4, 0},ExpressionUUID->
+     "4314fc0e-36c4-4515-86af-1ffbe318502f"]], "AnchorBar",ExpressionUUID->
+     "c5ea8912-56a9-46b8-b0d9-8dc4ed1ea724"]}
+  }]], "AnchorBarGrid",
+ CellID->317820364,ExpressionUUID->"b8b0c43a-687c-484c-8d43-ba886b257ddb"],
+
+Cell[CellGroupData[{
+
+Cell["EikonalFunctions", "ObjectName",
+ CellID->71892444,ExpressionUUID->"0bd4e436-8a29-4d88-bbcf-f7077c8a6d3f"],
+
+Cell[BoxData[GridBox[{
+   {"", Cell["\<\
+EikonalFunctions[raySet, inputParams, outputParams, order]:
+Computes the Eikonal functions for a given traced raySet, for a given fit \
+function. It is recommended that the system from which the raySet are \
+generated has a dummy surface between the last two surfaces that is the size \
+of the last optical element and directly after it.
+Input:
+\traySet- A list of rays that have been traced through a system
+\tinputParams- Parameters in the object plane that should be used as the \
+variables that the output parameters are fit to. Must be in the form of a \
+matrix where each vector in the matrix has a first element that corresponds \
+with the surface requested, where 1 indicates object space and -1 indicates \
+image space. The next element of the vector is the ray parameter to be fit, \
+and that should be followed by the part of that parameter if necessary. Ex. \
+{1,ray`r,1} gives x location in object space while {-1,ray`MM,1,1} gives the \
+M00 element of the Mueller matrix in image space.
+\toutputParams- Parameters that should be fit to on the second to last \
+surface of the system. Same convention as inputparams
+\torder- The order that the XY polynomial should be fit to. (defaults to 2)
+Output:
+\tA matrix of the form {output parameter, fit function, Standard Deviation of \
+the Fit} with a row for each input parameter\
+\>",ExpressionUUID->"7576a9d3-91b3-4bef-b2d2-d228a07a2e71"]}
+  }]], "Usage",
+ CellID->16252520,ExpressionUUID->"716c083d-4c10-4004-b543-7fc86a0464b6"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[TextData[Cell[BoxData[
+ ButtonBox[
+  FrameBox[
+   StyleBox[
+    RowBox[{"MORE", " ", "INFORMATION"}], "NotesFrameText"],
+   StripOnInput->False],
+  Appearance->{Automatic, None},
+  BaseStyle->None,
+  ButtonFunction:>(FrontEndExecute[{
+     FrontEnd`SelectionMove[
+      FrontEnd`SelectedNotebook[], All, ButtonCell], 
+     FrontEndToken["OpenCloseGroup"], 
+     FrontEnd`SelectionMove[
+      FrontEnd`SelectedNotebook[], After, CellContents]}]& ),
+  Evaluator->None,
+  Method->
+   "Preemptive"]],ExpressionUUID->"ad01e444-42ce-4f68-a18a-6a39a2f5c7d4"]], \
+"NotesSection",
+ WholeCellGroupOpener->True,
+ CellGroupingRules->{"SectionGrouping", 50},
+ CellID->34636094,ExpressionUUID->"b3fca1d5-7d8f-46c4-a3f3-a61edb028aa9"],
+
+Cell["\<\
+It is recommended that the system from which the traced rays are generated \
+has a dummy surface between the last two surfaces that is the size of the \
+last optical element and directly after it.\
+\>", "Notes",ExpressionUUID->"03bd7a37-9791-462f-986e-e5a3487d1bb7"],
+
+Cell["\<\
+Parameters must be in the form of a matrix where each vector in the matrix \
+has a first element that corresponds with the surface requested, where 1 \
+indicates object space and -1 indicates image space. \
+\>", "Notes",ExpressionUUID->"9b91983b-7149-4ef8-9f74-81e0c768dccc"],
+
+Cell["\<\
+The next element of the vector is the ray parameter to be fit, and that \
+should be followed by the part of that parameter if necessary.\
+\>", "Notes",
+ CellChangeTimes->{
+  3.7390171033003707`*^9},ExpressionUUID->"87559cdd-2e2c-4d8e-9d7f-\
+f0ec7cc7aead"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[TextData[ButtonBox["EXAMPLES",
+ BaseStyle->None,
+ Appearance->{Automatic, None},
+ Evaluator->None,
+ Method->"Preemptive",
+ ButtonFunction:>(FrontEndExecute[{
+    FrontEnd`SelectionMove[
+     FrontEnd`SelectedNotebook[], All, ButtonCell], 
+    FrontEndToken["OpenCloseGroup"], 
+    FrontEnd`SelectionMove[
+     FrontEnd`SelectedNotebook[], After, 
+     CellContents]}]& )]], "PrimaryExamplesSection",
+ WholeCellGroupOpener->True,
+ CellTags->
+  "PrimaryExamplesSection",ExpressionUUID->"92b6d267-93de-4b42-8a58-\
+bd79b2866375"],
+
+Cell[CellGroupData[{
+
+Cell[TextData[{
+ Cell[BoxData[
+  DynamicBox[ToBoxes[
+    If[
+     MatchQ[
+      Part[
+       Dynamic[
+        CurrentValue[
+         EvaluationNotebook[], {
+         TaggingRules, "Openers", "ExampleSection", "0"}, Closed]], 1], 
+      Alternatives[Open, True]], 
+     Style[
+      Graphics[{
+        Thickness[0.18], 
+        RGBColor[0.8509803921568627, 0.396078431372549, 0], 
+        Line[{{-1.8, 0.5}, {0, 0}, {1.8, 0.5}}]}, AspectRatio -> 1, 
+       PlotRange -> {{-3, 4}, {-1, 1}}, ImageSize -> 20], Magnification -> 
+      0.68 Inherited], 
+     Rotate[
+      Style[
+       Graphics[{
+         Thickness[0.18], 
+         RGBColor[0.8509803921568627, 0.396078431372549, 0], 
+         Line[{{-1.8, 0.5}, {0, 0}, {1.8, 0.5}}]}, AspectRatio -> 1, 
+        PlotRange -> {{-3, 4}, {-1, 1}}, ImageSize -> 20], Magnification -> 
+       0.68 Inherited], Rational[1, 2] Pi, {-1.65, -1}]]],
+   ImageSizeCache->{14., {0.45000000000000107`, 13.549999999999999`}}]],
+  ExpressionUUID->"2d903d01-ee11-4c5f-8204-dabf52e87861"],
+ Cell[BoxData[
+  InterpretationBox[
+   StyleBox[
+    GraphicsBox[{},
+     BaselinePosition->Baseline,
+     ImageSize->{1, 0}],
+    CacheGraphics->False],
+   Spacer[1],
+   Selectable->False]],ExpressionUUID->"487721e8-1ed7-4f3e-88d4-aa720d85d639"],
+ "Basic Examples",
+ "\[NonBreakingSpace]\[NonBreakingSpace]",
+ Cell["(3)", "ExampleCount",ExpressionUUID->
+  "07775d1e-a74c-49e1-81be-1021525757ac"]
+}], "ExampleSection", "ExampleSection",
+ WholeCellGroupOpener->True,
+ CellChangeTimes->{{3.736613967975318*^9, 3.736613967977433*^9}, {
+  3.736684213968511*^9, 3.736684213969373*^9}, {3.7366846346527367`*^9, 
+  3.7366846346527367`*^9}, {3.736694941062146*^9, 3.7366949410631437`*^9}, {
+  3.7368641944438934`*^9, 3.7368641944438934`*^9}, {3.738939429968554*^9, 
+  3.738939431388321*^9}, {3.7389432960370474`*^9, 3.7389432960370474`*^9}, {
+  3.739017628285419*^9, 3.739017628285419*^9}},
+ CellID->163664281,ExpressionUUID->"636de853-fc00-473f-931e-124760aec531"],
+
+Cell["\<\
+The following examples will use a large ray field for a Double Gauss (The \
+long processing time is due to loading the rays in and not the function \
+itself):\
+\>", "ExampleText",
+ CellChangeTimes->{{3.7390177029942617`*^9, 3.7390177170244837`*^9}, 
+   3.739017753024369*^9},ExpressionUUID->"90668c9e-01d1-469f-b063-\
+7f864e74fa5e"],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ InterpretationBox[Cell[
+  "\t", "ExampleDelimiter",ExpressionUUID->
+   "3a2292dd-9b89-4539-baee-95db3266c947"],
+  $Line = 0; Null]], "ExampleDelimiter",
+ CellID->553469657,ExpressionUUID->"bf5179f8-ff91-490f-93a4-b058b512767b"],
+
+Cell["Now define a point Eikonal of the 3rd order polynomail:", "ExampleText",
+ CellChangeTimes->{{3.7390177029942617`*^9, 3.7390177170244837`*^9}, {
+  3.739017753024369*^9, 3.739017774294702*^9}, {3.739027249907597*^9, 
+  3.7390272607074285`*^9}, {3.7390273266365256`*^9, 
+  3.739027329167056*^9}},ExpressionUUID->"1bff357c-a3e2-4700-ada6-\
+fc96bbd8024b"],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[{
+ RowBox[{
+  RowBox[{"testRays", "=", 
+   RowBox[{"Import", "[", 
+    RowBox[{"FileNameJoin", "[", 
+     RowBox[{"{", 
+      RowBox[{
+      "PolarisLibrary`outputRays", ",", "\"\<LargeGaussField.wdx\>\""}], 
+      "}"}], "]"}], "]"}]}], ";"}], "\[IndentingNewLine]", 
+ StyleBox[
+  RowBox[{"EikonalFunctions", "[", 
+   RowBox[{"testRays", ",", 
+    RowBox[{"{", 
+     RowBox[{
+      RowBox[{"{", 
+       RowBox[{"1", ",", "ray`r", ",", "1"}], "}"}], ",", 
+      RowBox[{"{", 
+       RowBox[{"1", ",", "ray`r", ",", "2"}], "}"}], ",", 
+      RowBox[{"{", 
+       RowBox[{
+        RowBox[{"-", "2"}], ",", "ray`r", ",", "1"}], "}"}], ",", 
+      RowBox[{"{", 
+       RowBox[{
+        RowBox[{"-", "2"}], ",", "ray`r", ",", "2"}], "}"}]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"{", 
+      RowBox[{
+       RowBox[{"-", "2"}], ",", "ray`OPLCumulative"}], "}"}], "}"}], ",", 
+    "3"}], "]"}],
+  Background->RGBColor[1, 1, 0.85]]}], "Input",
+ CellLabel->"In[1]:=",ExpressionUUID->"aca5b053-1e7c-4c67-9792-84265aeb2d6e"],
+
+Cell[BoxData[
+ RowBox[{"{", 
+  RowBox[{
+   RowBox[{"{", "OPLCumulativeSurf13", "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"3.251001050969282`", "\[VeryThinSpace]", "+", 
+     RowBox[{"5.376439345221237`*^-14", " ", "r1Surf1"}], "+", 
+     RowBox[{"0.9559229846449486`", " ", 
+      SuperscriptBox["r1Surf1", "2"]}], "-", 
+     RowBox[{"7.273883865706344`*^-13", " ", 
+      SuperscriptBox["r1Surf1", "3"]}], "-", 
+     RowBox[{"3.8662466698330957`*^-14", " ", "r1Surf13"}], "-", 
+     RowBox[{"3.349836715793308`", " ", "r1Surf1", " ", "r1Surf13"}], "+", 
+     RowBox[{"2.474009334971808`*^-12", " ", 
+      SuperscriptBox["r1Surf1", "2"], " ", "r1Surf13"}], "+", 
+     RowBox[{"2.2173087912726266`", " ", 
+      SuperscriptBox["r1Surf13", "2"]}], "-", 
+     RowBox[{"4.890550115003883`*^-12", " ", "r1Surf1", " ", 
+      SuperscriptBox["r1Surf13", "2"]}], "+", 
+     RowBox[{"1.6777441079191065`*^-12", " ", 
+      SuperscriptBox["r1Surf13", "3"]}], "-", 
+     RowBox[{"1.2970761356425257`*^-13", " ", "r2Surf1"}], "-", 
+     RowBox[{"1.2538640017739129`*^-14", " ", "r1Surf1", " ", "r2Surf1"}], 
+     "+", 
+     RowBox[{"5.104834719697925`*^-12", " ", 
+      SuperscriptBox["r1Surf1", "2"], " ", "r2Surf1"}], "+", 
+     RowBox[{"4.834150222508899`*^-15", " ", "r1Surf13", " ", "r2Surf1"}], 
+     "-", 
+     RowBox[{
+     "7.733380725901051`*^-12", " ", "r1Surf1", " ", "r1Surf13", " ", 
+      "r2Surf1"}], "+", 
+     RowBox[{"4.1419133459955686`*^-12", " ", 
+      SuperscriptBox["r1Surf13", "2"], " ", "r2Surf1"}], "+", 
+     RowBox[{"0.9559229846447539`", " ", 
+      SuperscriptBox["r2Surf1", "2"]}], "-", 
+     RowBox[{"5.4940337318036315`*^-12", " ", "r1Surf1", " ", 
+      SuperscriptBox["r2Surf1", "2"]}], "+", 
+     RowBox[{"7.018045090553913`*^-12", " ", "r1Surf13", " ", 
+      SuperscriptBox["r2Surf1", "2"]}], "+", 
+     RowBox[{"4.360845975777836`*^-12", " ", 
+      SuperscriptBox["r2Surf1", "3"]}], "+", 
+     RowBox[{"1.2040065490400854`*^-13", " ", "r2Surf13"}], "-", 
+     RowBox[{"1.6819216265961141`*^-15", " ", "r1Surf1", " ", "r2Surf13"}], 
+     "-", 
+     RowBox[{"5.743926340693899`*^-12", " ", 
+      SuperscriptBox["r1Surf1", "2"], " ", "r2Surf13"}], "-", 
+     RowBox[{"4.832271545669274`*^-15", " ", "r1Surf13", " ", "r2Surf13"}], 
+     "+", 
+     RowBox[{
+     "7.686384173009668`*^-12", " ", "r1Surf1", " ", "r1Surf13", " ", 
+      "r2Surf13"}], "-", 
+     RowBox[{"3.773183088432487`*^-12", " ", 
+      SuperscriptBox["r1Surf13", "2"], " ", "r2Surf13"}], "-", 
+     RowBox[{"3.349836715792742`", " ", "r2Surf1", " ", "r2Surf13"}], "+", 
+     RowBox[{
+     "8.42172435122275`*^-12", " ", "r1Surf1", " ", "r2Surf1", " ", 
+      "r2Surf13"}], "-", 
+     RowBox[{
+     "1.2917690378782572`*^-11", " ", "r1Surf13", " ", "r2Surf1", " ", 
+      "r2Surf13"}], "-", 
+     RowBox[{"8.865625822631714`*^-12", " ", 
+      SuperscriptBox["r2Surf1", "2"], " ", "r2Surf13"}], "+", 
+     RowBox[{"2.2173087912723513`", " ", 
+      SuperscriptBox["r2Surf13", "2"]}], "-", 
+     RowBox[{"3.769418392273433`*^-12", " ", "r1Surf1", " ", 
+      SuperscriptBox["r2Surf13", "2"]}], "+", 
+     RowBox[{"5.367607813368993`*^-12", " ", "r1Surf13", " ", 
+      SuperscriptBox["r2Surf13", "2"]}], "+", 
+     RowBox[{"7.085867067239748`*^-12", " ", "r2Surf1", " ", 
+      SuperscriptBox["r2Surf13", "2"]}], "-", 
+     RowBox[{"2.4736486999882346`*^-12", " ", 
+      SuperscriptBox["r2Surf13", "3"]}]}], "}"}], ",", 
+   RowBox[{"{", "0.0008408378594150714`", "}"}]}], "}"}]], "Output",
+ CellContext->"Cell$$13156`",
+ CellLabel->"Out[2]=",
+ CellID->533107434,ExpressionUUID->"4b3d28a8-8d80-41e4-9d9f-1091120e1759"]
+}, Open  ]]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ InterpretationBox[Cell[
+  "\t", "ExampleDelimiter",ExpressionUUID->
+   "ea403682-8a1e-4e4a-9cba-ad472826e0ce"],
+  $Line = 0; Null]], "ExampleDelimiter",ExpressionUUID->"edabc389-759d-462f-\
+a138-f5ab729b8148"],
+
+Cell["\<\
+Using the above ray field find the point Eikonal functions for a 4th order \
+polynomial:\
+\>", "ExampleText",
+ CellChangeTimes->{{3.739027293767119*^9, 3.7390273238065777`*^9}, {
+  3.739027361476637*^9, 
+  3.7390273628463755`*^9}},ExpressionUUID->"209db845-a4a0-4413-98a1-\
+cdb1b1b954cc"],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[{
+ RowBox[{
+  RowBox[{"testRays", "=", 
+   RowBox[{"Import", "[", 
+    RowBox[{"FileNameJoin", "[", 
+     RowBox[{"{", 
+      RowBox[{
+      "PolarisLibrary`outputRays", ",", "\"\<LargeGaussField.wdx\>\""}], 
+      "}"}], "]"}], "]"}]}], ";"}], "\[IndentingNewLine]", 
+ StyleBox[
+  RowBox[{"EikonalFunctions", "[", 
+   RowBox[{"testRays", ",", 
+    RowBox[{"{", 
+     RowBox[{
+      RowBox[{"{", 
+       RowBox[{"1", ",", "ray`r", ",", "1"}], "}"}], ",", 
+      RowBox[{"{", 
+       RowBox[{"1", ",", "ray`r", ",", "2"}], "}"}], ",", 
+      RowBox[{"{", 
+       RowBox[{
+        RowBox[{"-", "2"}], ",", "ray`r", ",", "1"}], "}"}], ",", 
+      RowBox[{"{", 
+       RowBox[{
+        RowBox[{"-", "2"}], ",", "ray`r", ",", "2"}], "}"}]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"{", 
+      RowBox[{
+       RowBox[{"-", "2"}], ",", "ray`OPLCumulative"}], "}"}], "}"}], ",", 
+    "4"}], "]"}],
+  Background->RGBColor[1, 1, 0.85]]}], "Input",
+ CellLabel->"In[1]:=",ExpressionUUID->"a1870627-9975-4575-9138-b7ffe9f5346c"],
+
+Cell[BoxData[
+ RowBox[{"{", 
+  RowBox[{
+   RowBox[{"{", "OPLCumulativeSurf13", "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"3.25185192122954`", "\[VeryThinSpace]", "+", 
+     RowBox[{"4.235101993734939`*^-14", " ", "r1Surf1"}], "+", 
+     RowBox[{"0.8959723003763104`", " ", 
+      SuperscriptBox["r1Surf1", "2"]}], "-", 
+     RowBox[{"2.7664724125800926`*^-13", " ", 
+      SuperscriptBox["r1Surf1", "3"]}], "+", 
+     RowBox[{"1.799088313805856`", " ", 
+      SuperscriptBox["r1Surf1", "4"]}], "-", 
+     RowBox[{"2.974160239838806`*^-14", " ", "r1Surf13"}], "-", 
+     RowBox[{"3.3664637264582695`", " ", "r1Surf1", " ", "r1Surf13"}], "+", 
+     RowBox[{"1.2579305727741208`*^-12", " ", 
+      SuperscriptBox["r1Surf1", "2"], " ", "r1Surf13"}], "-", 
+     RowBox[{"2.166922315898104`", " ", 
+      SuperscriptBox["r1Surf1", "3"], " ", "r1Surf13"}], "+", 
+     RowBox[{"2.2268114073336864`", " ", 
+      SuperscriptBox["r1Surf13", "2"]}], "-", 
+     RowBox[{"3.5857378668337095`*^-12", " ", "r1Surf1", " ", 
+      SuperscriptBox["r1Surf13", "2"]}], "-", 
+     RowBox[{"6.194216284939303`", " ", 
+      SuperscriptBox["r1Surf1", "2"], " ", 
+      SuperscriptBox["r1Surf13", "2"]}], "+", 
+     RowBox[{"1.2269770697730978`*^-12", " ", 
+      SuperscriptBox["r1Surf13", "3"]}], "+", 
+     RowBox[{"10.716156336599761`", " ", "r1Surf1", " ", 
+      SuperscriptBox["r1Surf13", "3"]}], "-", 
+     RowBox[{"3.38060506614649`", " ", 
+      SuperscriptBox["r1Surf13", "4"]}], "-", 
+     RowBox[{"1.1708362641976842`*^-13", " ", "r2Surf1"}], "-", 
+     RowBox[{"9.878646754259743`*^-13", " ", "r1Surf1", " ", "r2Surf1"}], "+", 
+     RowBox[{"4.668105832465345`*^-12", " ", 
+      SuperscriptBox["r1Surf1", "2"], " ", "r2Surf1"}], "+", 
+     RowBox[{"9.374918258477423`*^-9", " ", 
+      SuperscriptBox["r1Surf1", "3"], " ", "r2Surf1"}], "+", 
+     RowBox[{"1.1501513049856478`*^-12", " ", "r1Surf13", " ", "r2Surf1"}], 
+     "-", 
+     RowBox[{
+     "6.756223040866156`*^-12", " ", "r1Surf1", " ", "r1Surf13", " ", 
+      "r2Surf1"}], "-", 
+     RowBox[{"3.1074778680944756`*^-8", " ", 
+      SuperscriptBox["r1Surf1", "2"], " ", "r1Surf13", " ", "r2Surf1"}], "+", 
+     RowBox[{"3.5617530543138103`*^-12", " ", 
+      SuperscriptBox["r1Surf13", "2"], " ", "r2Surf1"}], "+", 
+     RowBox[{"3.455744507335587`*^-8", " ", "r1Surf1", " ", 
+      SuperscriptBox["r1Surf13", "2"], " ", "r2Surf1"}], "-", 
+     RowBox[{"1.287663432702717`*^-8", " ", 
+      SuperscriptBox["r1Surf13", "3"], " ", "r2Surf1"}], "+", 
+     RowBox[{"0.8959723003764201`", " ", 
+      SuperscriptBox["r2Surf1", "2"]}], "-", 
+     RowBox[{"5.2710015612950104`*^-12", " ", "r1Surf1", " ", 
+      SuperscriptBox["r2Surf1", "2"]}], "+", 
+     RowBox[{"3.5981766270118225`", " ", 
+      SuperscriptBox["r1Surf1", "2"], " ", 
+      SuperscriptBox["r2Surf1", "2"]}], "+", 
+     RowBox[{"6.868811283547681`*^-12", " ", "r1Surf13", " ", 
+      SuperscriptBox["r2Surf1", "2"]}], "-", 
+     RowBox[{"2.1669223149196934`", " ", "r1Surf1", " ", "r1Surf13", " ", 
+      SuperscriptBox["r2Surf1", "2"]}], "+", 
+     RowBox[{"0.34997901589665165`", " ", 
+      SuperscriptBox["r1Surf13", "2"], " ", 
+      SuperscriptBox["r2Surf1", "2"]}], "+", 
+     RowBox[{"3.967741507211889`*^-12", " ", 
+      SuperscriptBox["r2Surf1", "3"]}], "-", 
+     RowBox[{"9.320215238512599`*^-9", " ", "r1Surf1", " ", 
+      SuperscriptBox["r2Surf1", "3"]}], "+", 
+     RowBox[{"1.029199202552307`*^-8", " ", "r1Surf13", " ", 
+      SuperscriptBox["r2Surf1", "3"]}], "+", 
+     RowBox[{"1.7990883137841671`", " ", 
+      SuperscriptBox["r2Surf1", "4"]}], "+", 
+     RowBox[{"1.036019418062539`*^-13", " ", "r2Surf13"}], "+", 
+     RowBox[{"7.685002074613841`*^-13", " ", "r1Surf1", " ", "r2Surf13"}], 
+     "-", 
+     RowBox[{"5.297991860959422`*^-12", " ", 
+      SuperscriptBox["r1Surf1", "2"], " ", "r2Surf13"}], "-", 
+     RowBox[{"1.035052578822842`*^-8", " ", 
+      SuperscriptBox["r1Surf1", "3"], " ", "r2Surf13"}], "-", 
+     RowBox[{"1.1727312084413134`*^-12", " ", "r1Surf13", " ", "r2Surf13"}], 
+     "+", 
+     RowBox[{
+     "6.742021206315402`*^-12", " ", "r1Surf1", " ", "r1Surf13", " ", 
+      "r2Surf13"}], "+", 
+     RowBox[{"3.454325570204657`*^-8", " ", 
+      SuperscriptBox["r1Surf1", "2"], " ", "r1Surf13", " ", "r2Surf13"}], "-", 
+     RowBox[{"3.133825435898597`*^-12", " ", 
+      SuperscriptBox["r1Surf13", "2"], " ", "r2Surf13"}], "-", 
+     RowBox[{"3.861169866789832`*^-8", " ", "r1Surf1", " ", 
+      SuperscriptBox["r1Surf13", "2"], " ", "r2Surf13"}], "+", 
+     RowBox[{"1.4436056224353225`*^-8", " ", 
+      SuperscriptBox["r1Surf13", "3"], " ", "r2Surf13"}], "-", 
+     RowBox[{"3.366463726456627`", " ", "r2Surf1", " ", "r2Surf13"}], "+", 
+     RowBox[{
+     "8.051509982147851`*^-12", " ", "r1Surf1", " ", "r2Surf1", " ", 
+      "r2Surf13"}], "-", 
+     RowBox[{"2.166922315035559`", " ", 
+      SuperscriptBox["r1Surf1", "2"], " ", "r2Surf1", " ", "r2Surf13"}], "-", 
+     RowBox[{
+     "1.249102188303017`*^-11", " ", "r1Surf13", " ", "r2Surf1", " ", 
+      "r2Surf13"}], "-", 
+     RowBox[{
+     "13.088390603975053`", " ", "r1Surf1", " ", "r1Surf13", " ", "r2Surf1", 
+      " ", "r2Surf13"}], "+", 
+     RowBox[{"10.71615633709513`", " ", 
+      SuperscriptBox["r1Surf13", "2"], " ", "r2Surf1", " ", "r2Surf13"}], "-", 
+     RowBox[{"7.593304883322337`*^-12", " ", 
+      SuperscriptBox["r2Surf1", "2"], " ", "r2Surf13"}], "+", 
+     RowBox[{"3.089662813043222`*^-8", " ", "r1Surf1", " ", 
+      SuperscriptBox["r2Surf1", "2"], " ", "r2Surf13"}], "-", 
+     RowBox[{"3.4333787777686985`*^-8", " ", "r1Surf13", " ", 
+      SuperscriptBox["r2Surf1", "2"], " ", "r2Surf13"}], "-", 
+     RowBox[{"2.166922315720525`", " ", 
+      SuperscriptBox["r2Surf1", "3"], " ", "r2Surf13"}], "+", 
+     RowBox[{"2.2268114073348086`", " ", 
+      SuperscriptBox["r2Surf13", "2"]}], "-", 
+     RowBox[{"3.5282569830025847`*^-12", " ", "r1Surf1", " ", 
+      SuperscriptBox["r2Surf13", "2"]}], "+", 
+     RowBox[{"0.34997901590484687`", " ", 
+      SuperscriptBox["r1Surf1", "2"], " ", 
+      SuperscriptBox["r2Surf13", "2"]}], "+", 
+     RowBox[{"5.13088670351037`*^-12", " ", "r1Surf13", " ", 
+      SuperscriptBox["r2Surf13", "2"]}], "+", 
+     RowBox[{"10.716156337162424`", " ", "r1Surf1", " ", "r1Surf13", " ", 
+      SuperscriptBox["r2Surf13", "2"]}], "-", 
+     RowBox[{"6.761210132446297`", " ", 
+      SuperscriptBox["r1Surf13", "2"], " ", 
+      SuperscriptBox["r2Surf13", "2"]}], "+", 
+     RowBox[{"5.7305044987058594`*^-12", " ", "r2Surf1", " ", 
+      SuperscriptBox["r2Surf13", "2"]}], "-", 
+     RowBox[{"3.434472406662829`*^-8", " ", "r1Surf1", " ", "r2Surf1", " ", 
+      SuperscriptBox["r2Surf13", "2"]}], "+", 
+     RowBox[{"3.83805715904927`*^-8", " ", "r1Surf13", " ", "r2Surf1", " ", 
+      SuperscriptBox["r2Surf13", "2"]}], "-", 
+     RowBox[{"6.194216285421185`", " ", 
+      SuperscriptBox["r2Surf1", "2"], " ", 
+      SuperscriptBox["r2Surf13", "2"]}], "-", 
+     RowBox[{"1.900422499095699`*^-12", " ", 
+      SuperscriptBox["r2Surf13", "3"]}], "+", 
+     RowBox[{"1.2798971967872135`*^-8", " ", "r1Surf1", " ", 
+      SuperscriptBox["r2Surf13", "3"]}], "-", 
+     RowBox[{"1.4350169731751024`*^-8", " ", "r1Surf13", " ", 
+      SuperscriptBox["r2Surf13", "3"]}], "+", 
+     RowBox[{"10.716156336910922`", " ", "r2Surf1", " ", 
+      SuperscriptBox["r2Surf13", "3"]}], "-", 
+     RowBox[{"3.38060506622905`", " ", 
+      SuperscriptBox["r2Surf13", "4"]}]}], "}"}], ",", 
+   RowBox[{"{", "0.00015133118957418658`", "}"}]}], "}"}]], "Output",
+ CellContext->"Cell$$13164`",
+ CellLabel->"Out[2]=",
+ CellID->323081769,ExpressionUUID->"107e9330-5730-4df8-b94f-c57127baf9e5"]
+}, Open  ]]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ InterpretationBox[Cell[
+  "\t", "ExampleDelimiter",ExpressionUUID->
+   "3dd72ddb-b423-4efb-9484-b6a12f56b46e"],
+  $Line = 0; Null]], "ExampleDelimiter",ExpressionUUID->"58c08300-5082-45cd-\
+b4f3-ca140afad010"],
+
+Cell["Define the point angle eikonal for a 3rd order polynomial:", \
+"ExampleText",
+ CellChangeTimes->{{3.7390177029942617`*^9, 3.7390177170244837`*^9}, {
+  3.739017753024369*^9, 3.739017774294702*^9}, {3.739027249907597*^9, 
+  3.7390272607074285`*^9}, {3.7390273266365256`*^9, 3.739027329167056*^9}, {
+  3.7390275527753*^9, 
+  3.73902756523418*^9}},ExpressionUUID->"4e12e191-78c3-4783-aa26-\
+c2b6739653e6"],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[{
+ RowBox[{
+  RowBox[{"testRays", "=", 
+   RowBox[{"Import", "[", 
+    RowBox[{"FileNameJoin", "[", 
+     RowBox[{"{", 
+      RowBox[{
+      "PolarisLibrary`outputRays", ",", "\"\<LargeGaussField.wdx\>\""}], 
+      "}"}], "]"}], "]"}]}], ";"}], "\[IndentingNewLine]", 
+ StyleBox[
+  RowBox[{"EikonalFunctions", "[", 
+   RowBox[{"testRays", ",", 
+    RowBox[{"{", 
+     RowBox[{
+      RowBox[{"{", 
+       RowBox[{"1", ",", "ray`r", ",", "1"}], "}"}], ",", 
+      RowBox[{"{", 
+       RowBox[{"1", ",", "ray`r", ",", "2"}], "}"}], ",", 
+      RowBox[{"{", 
+       RowBox[{
+        RowBox[{"-", "2"}], ",", "ray`k", ",", "1"}], "}"}], ",", 
+      RowBox[{"{", 
+       RowBox[{
+        RowBox[{"-", "2"}], ",", "ray`k", ",", "2"}], "}"}]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"{", 
+      RowBox[{
+       RowBox[{"-", "2"}], ",", "ray`OPLCumulative"}], "}"}], "}"}], ",", 
+    "3"}], "]"}],
+  Background->RGBColor[1, 1, 0.85]]}], "Input",
+ CellLabel->"In[1]:=",ExpressionUUID->"21f3d319-4132-4580-bd2d-14fcf8de9fee"],
+
+Cell[BoxData[
+ RowBox[{"{", 
+  RowBox[{
+   RowBox[{"{", "OPLCumulativeSurf13", "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"3.2558657629541754`", "\[VeryThinSpace]", "+", 
+     RowBox[{"3.0832202746280905`*^-13", " ", "k1Surf13"}], "+", 
+     RowBox[{"4.461709465187913`", " ", 
+      SuperscriptBox["k1Surf13", "2"]}], "-", 
+     RowBox[{"3.9877292017363526`*^-11", " ", 
+      SuperscriptBox["k1Surf13", "3"]}], "+", 
+     RowBox[{"4.866845151646592`*^-13", " ", "k2Surf13"}], "-", 
+     RowBox[{"2.4179377124230975`*^-13", " ", "k1Surf13", " ", "k2Surf13"}], 
+     "+", 
+     RowBox[{"3.329755336656825`*^-11", " ", 
+      SuperscriptBox["k1Surf13", "2"], " ", "k2Surf13"}], "+", 
+     RowBox[{"4.461709465188257`", " ", 
+      SuperscriptBox["k2Surf13", "2"]}], "+", 
+     RowBox[{"2.4337556698717662`*^-11", " ", "k1Surf13", " ", 
+      SuperscriptBox["k2Surf13", "2"]}], "-", 
+     RowBox[{"7.643132973784823`*^-11", " ", 
+      SuperscriptBox["k2Surf13", "3"]}], "+", 
+     RowBox[{"3.2246942397619593`*^-13", " ", "r1Surf1"}], "+", 
+     RowBox[{"7.094582237746257`", " ", "k1Surf13", " ", "r1Surf1"}], "-", 
+     RowBox[{"1.0095306736744904`*^-10", " ", 
+      SuperscriptBox["k1Surf13", "2"], " ", "r1Surf1"}], "-", 
+     RowBox[{"1.9204437891765893`*^-13", " ", "k2Surf13", " ", "r1Surf1"}], 
+     "+", 
+     RowBox[{
+     "6.525774712535767`*^-11", " ", "k1Surf13", " ", "k2Surf13", " ", 
+      "r1Surf1"}], "+", 
+     RowBox[{"1.796416175225255`*^-11", " ", 
+      SuperscriptBox["k2Surf13", "2"], " ", "r1Surf1"}], "+", 
+     RowBox[{"2.2795301424198935`", " ", 
+      SuperscriptBox["r1Surf1", "2"]}], "-", 
+     RowBox[{"8.920365642997241`*^-11", " ", "k1Surf13", " ", 
+      SuperscriptBox["r1Surf1", "2"]}], "+", 
+     RowBox[{"3.220087103131923`*^-11", " ", "k2Surf13", " ", 
+      SuperscriptBox["r1Surf1", "2"]}], "-", 
+     RowBox[{"2.9028323771836187`*^-11", " ", 
+      SuperscriptBox["r1Surf1", "3"]}], "+", 
+     RowBox[{"3.35568827669876`*^-13", " ", "r2Surf1"}], "-", 
+     RowBox[{"2.189161129512655`*^-13", " ", "k1Surf13", " ", "r2Surf1"}], 
+     "+", 
+     RowBox[{"2.7758125117045417`*^-11", " ", 
+      SuperscriptBox["k1Surf13", "2"], " ", "r2Surf1"}], "+", 
+     RowBox[{"7.094582237747297`", " ", "k2Surf13", " ", "r2Surf1"}], "+", 
+     RowBox[{
+     "4.793035485394677`*^-11", " ", "k1Surf13", " ", "k2Surf13", " ", 
+      "r2Surf1"}], "-", 
+     RowBox[{"1.7915660364028276`*^-10", " ", 
+      SuperscriptBox["k2Surf13", "2"], " ", "r2Surf1"}], "-", 
+     RowBox[{"1.885703511886543`*^-13", " ", "r1Surf1", " ", "r2Surf1"}], "+", 
+     RowBox[{
+     "5.556891484361859`*^-11", " ", "k1Surf13", " ", "r1Surf1", " ", 
+      "r2Surf1"}], "+", 
+     RowBox[{
+     "3.321543227645918`*^-11", " ", "k2Surf13", " ", "r1Surf1", " ", 
+      "r2Surf1"}], "+", 
+     RowBox[{"2.8950861772483676`*^-11", " ", 
+      SuperscriptBox["r1Surf1", "2"], " ", "r2Surf1"}], "+", 
+     RowBox[{"2.279530142420625`", " ", 
+      SuperscriptBox["r2Surf1", "2"]}], "+", 
+     RowBox[{"2.1679936478914932`*^-11", " ", "k1Surf13", " ", 
+      SuperscriptBox["r2Surf1", "2"]}], "-", 
+     RowBox[{"1.348258490645722`*^-10", " ", "k2Surf13", " ", 
+      SuperscriptBox["r2Surf1", "2"]}], "+", 
+     RowBox[{"1.1969015198171251`*^-11", " ", "r1Surf1", " ", 
+      SuperscriptBox["r2Surf1", "2"]}], "-", 
+     RowBox[{"2.996994411917722`*^-11", " ", 
+      SuperscriptBox["r2Surf1", "3"]}]}], "}"}], ",", 
+   RowBox[{"{", "0.0026678824441669184`", "}"}]}], "}"}]], "Output",
+ CellContext->"Cell$$13172`",
+ CellLabel->"Out[2]=",
+ CellID->7623852,ExpressionUUID->"dd5b7440-f349-4486-a438-90988de49520"]
+}, Open  ]]
+}, Open  ]],
+
+Cell[BoxData[
+ InterpretationBox[Cell[
+  "\t", "ExampleDelimiter",ExpressionUUID->
+   "560c7775-0407-476a-8162-056c779b9cb7"],
+  $Line = 0; Null]], "ExampleDelimiter",ExpressionUUID->"9704cab3-37d7-4a09-\
+82de-225b99933ab7"]
+}, Open  ]]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[TextData[ButtonBox["See Also",
+ BaseStyle->None,
+ Appearance->{Automatic, None},
+ Evaluator->None,
+ Method->"Preemptive",
+ ButtonFunction:>(FrontEndExecute[{
+    FrontEnd`SelectionMove[
+     FrontEnd`SelectedNotebook[], All, ButtonCell], 
+    FrontEndToken["OpenCloseGroup"], 
+    FrontEnd`SelectionMove[
+     FrontEnd`SelectedNotebook[], After, 
+     CellContents]}]& )]], "PrimaryExamplesSection",
+ WholeCellGroupOpener->True,
+ CellTags->
+  "PrimaryExamplesSection",ExpressionUUID->"65e094d7-45ce-46dc-9a2d-\
+f005a28ebb05"],
+
+Cell[TextData[{
+ Cell[BoxData[
+  StyleBox[
+   ButtonBox["EikonalFunctions",
+    BaseStyle->"Link",
+    ButtonData->"paclet:PolarisScatterDisplay/ref/EikonalFunctions"],
+   FontFamily->"Verdana"]], "InlineFormula",ExpressionUUID->
+  "5872bc4d-07f2-4ca5-8f90-b4ef7807fde6"],
+ "\[NonBreakingSpace]",
+ StyleBox["\[MediumSpace]\[FilledVerySmallSquare]\[MediumSpace]", 
+  "InlineSeparator"],
+ " ",
+ Cell[BoxData[
+  StyleBox[
+   ButtonBox["ExitPupilQuick",
+    BaseStyle->"Link",
+    ButtonData->"paclet:PolarisScatterDisplay/ref/ExitPupilQuick"],
+   FontFamily->"Verdana"]], "InlineFormula",ExpressionUUID->
+  "2c4b83e3-074d-49a5-aa93-d21aeede1aa1"],
+ "\[NonBreakingSpace]",
+ StyleBox["\[MediumSpace]\[FilledVerySmallSquare]\[MediumSpace]", 
+  "InlineSeparator"],
+ " ",
+ Cell[BoxData[
+  StyleBox[
+   ButtonBox["ClosestPassage",
+    BaseStyle->"Link",
+    ButtonData->"paclet:PolarisScatterDisplay/ref/ClosestPassage"],
+   FontFamily->"Verdana"]], "InlineFormula",ExpressionUUID->
+  "4e48b543-392d-4b59-a52f-f76aebc6ea5f"],
+ "\[NonBreakingSpace]",
+ StyleBox["\[MediumSpace]\[FilledVerySmallSquare]\[MediumSpace]", 
+  "InlineSeparator"],
+ " ",
+ Cell[BoxData[
+  StyleBox[
+   ButtonBox["MeritFunction",
+    BaseStyle->"Link",
+    ButtonData->"paclet:PolarisScatterDisplay/ref/MeritFunction"],
+   FontFamily->"Verdana"]], "InlineFormula",ExpressionUUID->
+  "9f1de27d-e70d-4da6-aa31-d0d3c55c115a"],
+ "\[NonBreakingSpace]",
+ StyleBox["\[MediumSpace]\[FilledVerySmallSquare]\[MediumSpace]", 
+  "InlineSeparator"],
+ " ",
+ Cell[BoxData[
+  StyleBox[
+   ButtonBox["MeritFunctionRayset",
+    BaseStyle->"Link",
+    ButtonData->"paclet:PolarisScatterDisplay/ref/MeritFunctionRayset"],
+   FontFamily->"Verdana"]], "InlineFormula",ExpressionUUID->
+  "b6828a84-2158-4ed1-ba3e-7402d7441d60"],
+ "\[NonBreakingSpace]",
+ StyleBox["\[MediumSpace]\[FilledVerySmallSquare]\[MediumSpace]", 
+  "InlineSeparator"],
+ " ",
+ Cell[BoxData[
+  StyleBox[
+   ButtonBox["VignettingFunction",
+    BaseStyle->"Link",
+    ButtonData->"paclet:PolarisScatterDisplay/ref/VignettingFunction"],
+   FontFamily->"Verdana"]], "InlineFormula",ExpressionUUID->
+  "e66303bb-6599-4647-868e-48596023f595"],
+ "\[NonBreakingSpace]",
+ StyleBox["\[MediumSpace]\[FilledVerySmallSquare]\[MediumSpace]", 
+  "InlineSeparator"],
+ " ",
+ Cell[BoxData[
+  StyleBox[
+   ButtonBox["PupilRay",
+    BaseStyle->"Link",
+    ButtonData->"paclet:PolarisScatterDisplay/ref/PupilRay"],
+   FontFamily->"Verdana"]], "InlineFormula",ExpressionUUID->
+  "6846867f-3cb2-4d00-9840-1dcd1949c2a3"],
+ "\[NonBreakingSpace]",
+ StyleBox["\[MediumSpace]\[FilledVerySmallSquare]\[MediumSpace]", 
+  "InlineSeparator"],
+ " "
+}], "SeeAlso",ExpressionUUID->"36d793db-9986-4e3a-afb1-2ff70032b856"]
+}, Open  ]]
+},
+Saveable->True,
+WindowSize->{696, 809},
+WindowMargins->{{202, Automatic}, {Automatic, 83}},
+WindowTitle->"EikonalFunctions - PolarisScatterDisplay`",
+DockedCells->FEPrivate`FrontEndResource["FEExpressions", "HelpViewerToolbar"],
+PageHeaders->{{None, None, None}, {None, None, 
+   Cell[
+    TextData[{
+      Cell[
+       TextData[{
+         CounterBox["Page"]}], "PageNumber"]}], 
+    CellMargins -> {{Inherited, -29}, {Inherited, Inherited}}]}},
+TaggingRules->{
+ "Metadata" -> {
+   "built" -> {2017, 9, 18, 10, 0, 0}, "history" -> {"XX", "", "", ""}, 
+    "context" -> "PolarisScatterDisplay`", 
+    "keywords" -> {
+     "EikonalFunctions", "PolarisScatterDisplay", "Polaris", "Polaris-M"}, 
+    "specialkeywords" -> {}, "tutorialcollectionlinks" -> {}, "index" -> True,
+     "label" -> "Polaris-M", "language" -> "en", "paclet" -> 
+    "PolarisScatterDisplay", "summary" -> 
+    ":\nComputes the Eikonal functions for a given traced raySet, for a given \
+fit function. It is recommended that the system from which the raySet are \
+generated has a dummy surface between the last two surfaces that is the size \
+of the last optical element and directly after it.\nInput:\n\traySet- A list \
+of rays that have been traced through a system\n\tinputParams- Parameters in \
+the object plane that should be used as the variables that the output \
+parameters are fit to. Must be in the form of a matrix where each vector in \
+the matrix has a first element that corresponds with the surface requested, \
+where 1 indicates object space and -1 indicates image space. The next element \
+of the vector is the ray parameter to be fit, and that should be followed by \
+the part of that parameter if necessary. Ex. {1,ray`r,1} gives x location in \
+object space while {-1,ray`MM,1,1} gives the M00 element of the Mueller \
+matrix in image space.\n\toutputParams- Parameters that should be fit to on \
+the second to last surface of the system. Same convention as inputparams\n\t\
+order- The order that the XY polynomial should be fit to. (defaults to 2)\n\
+Output:\n\tA matrix of the form {output parameter, fit function, Standard \
+Deviation of the Fit} with a row for each input parameter", "synonyms" -> {}, 
+    "tabletags" -> {}, "title" -> "EikonalFunctions", "titlemodifier" -> "", 
+    "windowtitle" -> "EikonalFunctions", "type" -> "symbol", "uri" -> 
+    "PolarisScatterDisplay/ref/EikonalFunctions", "WorkflowDockedCell" -> ""},
+   "NewStyles" -> False, "SearchTextTranslated" -> "", "LinkTrails" -> ""},
+FrontEndVersion->"12.0 for Microsoft Windows (64-bit) (February 25, 2019)",
+StyleDefinitions->FrontEnd`FileName[{"Wolfram"}, "Reference.nb", 
+  CharacterEncoding -> "UTF-8"],
+$CellContext`TrackCellChangeTimes -> False
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{
+ "PrimaryExamplesSection"->{
+  Cell[102767, 1334, 530, 15, 35, "PrimaryExamplesSection",ExpressionUUID->"92b6d267-93de-4b42-8a58-bd79b2866375",
+   CellTags->"PrimaryExamplesSection"],
+  Cell[125879, 1890, 530, 15, 35, "PrimaryExamplesSection",ExpressionUUID->"65e094d7-45ce-46dc-9a2d-f005a28ebb05",
+   CellTags->"PrimaryExamplesSection"]}
+ }
+*)
+(*CellTagsIndex
+CellTagsIndex->{
+ {"PrimaryExamplesSection", 131971, 2040}
+ }
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[613, 21, 98852, 1231, 89, "AnchorBarGrid",ExpressionUUID->"b8b0c43a-687c-484c-8d43-ba886b257ddb",
+ CellID->317820364],
+Cell[CellGroupData[{
+Cell[99490, 1256, 112, 1, 52, "ObjectName",ExpressionUUID->"0bd4e436-8a29-4d88-bbcf-f7077c8a6d3f",
+ CellID->71892444],
+Cell[99605, 1259, 1529, 25, 494, "Usage",ExpressionUUID->"716c083d-4c10-4004-b543-7fc86a0464b6",
+ CellID->16252520]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[101171, 1289, 724, 20, 47, "NotesSection",ExpressionUUID->"b3fca1d5-7d8f-46c4-a3f3-a61edb028aa9",
+ CellGroupingRules->{"SectionGrouping", 50},
+ CellID->34636094],
+Cell[101898, 1311, 276, 4, 75, "Notes",ExpressionUUID->"03bd7a37-9791-462f-986e-e5a3487d1bb7"],
+Cell[102177, 1317, 285, 4, 75, "Notes",ExpressionUUID->"9b91983b-7149-4ef8-9f74-81e0c768dccc"],
+Cell[102465, 1323, 265, 6, 55, "Notes",ExpressionUUID->"87559cdd-2e2c-4d8e-9d7f-f0ec7cc7aead"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[102767, 1334, 530, 15, 35, "PrimaryExamplesSection",ExpressionUUID->"92b6d267-93de-4b42-8a58-bd79b2866375",
+ CellTags->"PrimaryExamplesSection"],
+Cell[CellGroupData[{
+Cell[103322, 1353, 1977, 49, 29, "ExampleSection",ExpressionUUID->"636de853-fc00-473f-931e-124760aec531",
+ CellID->163664281],
+Cell[105302, 1404, 342, 7, 57, "ExampleText",ExpressionUUID->"90668c9e-01d1-469f-b063-7f864e74fa5e"],
+Cell[CellGroupData[{
+Cell[105669, 1415, 242, 5, 8, "ExampleDelimiter",ExpressionUUID->"bf5179f8-ff91-490f-93a4-b058b512767b",
+ CellID->553469657],
+Cell[105914, 1422, 356, 5, 38, "ExampleText",ExpressionUUID->"1bff357c-a3e2-4700-ada6-fc96bbd8024b"],
+Cell[CellGroupData[{
+Cell[106295, 1431, 1033, 30, 75, "Input",ExpressionUUID->"aca5b053-1e7c-4c67-9792-84265aeb2d6e"],
+Cell[107331, 1463, 3615, 75, 336, "Output",ExpressionUUID->"4b3d28a8-8d80-41e4-9d9f-1091120e1759",
+ CellID->533107434]
+}, Open  ]]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[110995, 1544, 224, 5, 8, "ExampleDelimiter",ExpressionUUID->"edabc389-759d-462f-a138-f5ab729b8148"],
+Cell[111222, 1551, 298, 7, 38, "ExampleText",ExpressionUUID->"209db845-a4a0-4413-98a1-cdb1b1b954cc"],
+Cell[CellGroupData[{
+Cell[111545, 1562, 1033, 30, 75, "Input",ExpressionUUID->"a1870627-9975-4575-9138-b7ffe9f5346c"],
+Cell[112581, 1594, 7646, 151, 624, "Output",ExpressionUUID->"107e9330-5730-4df8-b94f-c57127baf9e5",
+ CellID->323081769]
+}, Open  ]]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[120276, 1751, 224, 5, 8, "ExampleDelimiter",ExpressionUUID->"58c08300-5082-45cd-b4f3-ca140afad010"],
+Cell[120503, 1758, 407, 7, 38, "ExampleText",ExpressionUUID->"4e12e191-78c3-4783-aa26-c2b6739653e6"],
+Cell[CellGroupData[{
+Cell[120935, 1769, 1033, 30, 75, "Input",ExpressionUUID->"21f3d319-4132-4580-bd2d-14fcf8de9fee"],
+Cell[121971, 1801, 3608, 74, 336, "Output",ExpressionUUID->"dd5b7440-f349-4486-a438-90988de49520",
+ CellID->7623852]
+}, Open  ]]
+}, Open  ]],
+Cell[125606, 1879, 224, 5, 8, "ExampleDelimiter",ExpressionUUID->"9704cab3-37d7-4a09-82de-225b99933ab7"]
+}, Open  ]]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[125879, 1890, 530, 15, 35, "PrimaryExamplesSection",ExpressionUUID->"65e094d7-45ce-46dc-9a2d-f005a28ebb05",
+ CellTags->"PrimaryExamplesSection"],
+Cell[126412, 1907, 2696, 78, 45, "SeeAlso",ExpressionUUID->"36d793db-9986-4e3a-afb1-2ff70032b856"]
+}, Open  ]]
+}
+]
+*)
+
